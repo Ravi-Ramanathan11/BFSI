@@ -1,0 +1,921 @@
+date,gdp_growth,stock_market_performance,mutual_fund_flows,fii_investments,currency_fluctuation,commodity_prices,policy_announcements,global_events
+03/01/2022,6.72,-1.07,-151.98,150.26,0.89,0.962,Capital controls,No major event
+04/01/2022,6.72,0.4,-379.18,-1199.38,1.23,1.044,Capital controls,Tech sector boom
+05/01/2022,6.72,-1.48,-341.91,94.92,1.14,1.092,Capital controls,No major event
+06/01/2022,6.72,0.67,271.0,-1814.25,1.55,1.136,Interest rate cut,No major event
+07/01/2022,6.72,0.51,1272.81,-1423.75,-0.09,0.987,No major policy,Emerging market rally
+10/01/2022,6.72,1.2,879.31,-367.46,1.69,1.015,Inflation targeting,Global inflation surge
+11/01/2022,6.72,0.78,98.69,-764.17,-0.82,1.086,Capital controls,Emerging market rally
+12/01/2022,6.72,1.96,450.53,-1904.16,0.24,1.056,Repo rate hike,Tech sector boom
+13/01/2022,6.72,0.02,1068.97,-510.23,0.76,1.037,Interest rate cut,No major event
+14/01/2022,6.72,-0.87,660.48,1586.82,-1.29,1.08,Liquidity injection,US Fed rate hike
+17/01/2022,6.72,1.11,670.32,-1850.31,1.54,1.014,Export policy revision,Tech sector boom
+18/01/2022,6.72,2.19,1177.1,-1681.1,-0.46,1.076,Export policy revision,Pandemic impact
+19/01/2022,6.72,-1.07,-137.85,147.01,-0.09,1.109,Export policy revision,Pandemic impact
+20/01/2022,6.72,2.24,675.95,-150.71,0.7,0.965,GST change,Pandemic impact
+21/01/2022,6.72,-1.51,952.59,-879.0,0.66,1.138,Banking sector regulation,Commodity supercycle
+24/01/2022,6.72,0.68,1435.41,68.26,0.06,1.017,Fiscal stimulus,Oil price shock
+25/01/2022,6.72,0.81,-443.19,-975.92,-0.29,1.055,Interest rate cut,Oil price shock
+26/01/2022,6.72,0.07,727.35,70.81,0.49,1.125,Banking sector regulation,US Fed rate hike
+27/01/2022,6.72,1.28,86.27,2122.52,0.53,1.141,Banking sector regulation,Oil price shock
+28/01/2022,6.72,2.27,-229.37,1342.18,0.36,0.972,Capital controls,Major trade agreement
+31/01/2022,6.72,-0.31,204.62,265.19,-0.94,0.96,Capital controls,Global recession fears
+01/02/2022,6.72,0.29,1072.58,2356.82,0.56,1.008,Banking sector regulation,Tech sector boom
+02/02/2022,6.72,1.85,1482.55,-102.48,0.4,1.038,Monetary easing,Geopolitical tensions
+03/02/2022,6.72,-1.1,1051.02,-1276.24,1.77,1.115,Interest rate cut,US Fed rate hike
+04/02/2022,6.72,-1.73,-50.66,-246.06,-0.98,1.001,GST change,Commodity supercycle
+07/02/2022,6.72,1.6,-132.9,2593.81,-1.06,1.018,No major policy,Oil price shock
+08/02/2022,6.72,1.55,664.61,2521.24,-0.73,1.012,Fiscal stimulus,Major trade agreement
+09/02/2022,6.72,0.87,495.58,1216.15,-0.85,1.012,Interest rate cut,Emerging market rally
+10/02/2022,6.72,-0.74,918.47,-1773.87,-0.8,0.972,Fiscal stimulus,Oil price shock
+11/02/2022,6.72,1.73,1024.55,2099.06,-0.0,0.98,Banking sector regulation,No major event
+14/02/2022,6.72,-0.34,803.13,651.66,0.43,1.105,Interest rate cut,Global recession fears
+15/02/2022,6.72,1.91,913.73,-1536.01,1.72,1.082,Banking sector regulation,Global inflation surge
+16/02/2022,6.72,0.18,1048.48,1330.84,1.18,0.951,Inflation targeting,Oil price shock
+17/02/2022,6.72,0.43,265.92,1070.63,0.94,1.041,Fiscal stimulus,Geopolitical tensions
+18/02/2022,6.72,-1.69,-298.41,2447.48,1.5,0.962,GST change,US Fed rate hike
+21/02/2022,6.72,-1.25,879.7,2272.65,-0.72,1.109,Liquidity injection,Commodity supercycle
+22/02/2022,6.72,-1.48,1392.3,1583.86,0.98,0.972,Export policy revision,Emerging market rally
+23/02/2022,6.72,-0.02,485.47,-1786.43,1.78,1.141,GST change,Commodity supercycle
+24/02/2022,6.72,0.48,669.79,50.2,-0.17,1.086,Repo rate hike,Pandemic impact
+25/02/2022,6.72,1.2,422.64,-806.29,1.43,1.125,Interest rate cut,No major event
+28/02/2022,6.72,-2.49,327.28,754.61,1.71,0.994,GST change,Major trade agreement
+01/03/2022,6.72,-0.98,47.67,957.01,-0.98,1.049,Banking sector regulation,Global inflation surge
+02/03/2022,6.72,1.32,558.98,2290.96,-0.09,1.013,Repo rate hike,Geopolitical tensions
+03/03/2022,6.72,0.34,746.39,1630.94,0.9,1.145,No major policy,Tech sector boom
+04/03/2022,6.72,0.25,689.13,2655.59,-0.15,1.018,Interest rate cut,Major trade agreement
+07/03/2022,6.72,0.48,-31.16,851.12,-0.43,0.955,GST change,Tech sector boom
+08/03/2022,6.72,0.18,665.73,1460.74,0.9,1.114,Banking sector regulation,Global inflation surge
+09/03/2022,6.72,-1.99,281.15,-463.73,-0.85,1.096,Direct tax reform,Oil price shock
+10/03/2022,6.72,-1.12,826.3,-465.35,-1.42,1.039,Banking sector regulation,Commodity supercycle
+11/03/2022,6.72,-1.98,382.79,-1101.45,1.64,1.006,Capital controls,Emerging market rally
+14/03/2022,6.72,-1.89,1424.92,-1410.48,-1.41,1.093,Export policy revision,Major trade agreement
+15/03/2022,6.72,-0.68,1238.56,1422.32,1.63,1.112,Banking sector regulation,Pandemic impact
+16/03/2022,6.72,2.21,-241.48,2749.41,-0.86,1.028,FDI policy update,Tech sector boom
+17/03/2022,6.72,-0.51,-36.5,2538.24,-0.22,0.998,Repo rate hike,Tech sector boom
+18/03/2022,6.72,-2.19,1106.84,769.55,-0.51,0.964,Direct tax reform,Geopolitical tensions
+21/03/2022,6.72,0.79,1195.96,1795.7,-0.81,1.136,No major policy,Tech sector boom
+22/03/2022,6.72,-1.33,-58.35,-1288.92,1.65,1.031,Liquidity injection,Pandemic impact
+23/03/2022,6.72,-1.45,173.37,1052.24,1.61,1.122,GST change,Geopolitical tensions
+24/03/2022,6.72,1.23,1228.32,322.6,-1.33,0.968,Export policy revision,Tech sector boom
+25/03/2022,6.72,2.06,1229.4,2147.21,0.94,0.99,No major policy,US Fed rate hike
+28/03/2022,6.72,2.13,-317.04,-1781.61,0.23,1.088,Repo rate hike,Tech sector boom
+29/03/2022,6.72,2.42,-454.5,2790.39,0.79,1.092,GST change,US Fed rate hike
+30/03/2022,6.72,0.66,1033.02,2366.5,1.79,1.056,No major policy,Global recession fears
+31/03/2022,6.72,2.47,1469.59,1071.8,0.57,0.958,Repo rate hike,Emerging market rally
+01/04/2022,4.31,-1.42,750.22,-58.28,-0.68,1.064,GST change,US Fed rate hike
+04/04/2022,4.31,1.26,-256.41,2790.05,1.53,1.049,Banking sector regulation,Pandemic impact
+05/04/2022,4.31,-2.07,758.6,-699.4,0.87,1.027,Repo rate hike,Emerging market rally
+06/04/2022,4.31,-0.03,302.46,-1583.67,-0.59,0.973,GST change,Tech sector boom
+07/04/2022,4.31,0.73,-60.47,1581.42,0.54,1.088,Interest rate cut,Major trade agreement
+08/04/2022,4.31,-1.05,1174.64,1331.46,0.54,1.07,Monetary easing,Commodity supercycle
+11/04/2022,4.31,-0.96,-57.57,2107.86,-0.82,1.144,Fiscal stimulus,Emerging market rally
+12/04/2022,4.31,1.04,1293.95,-761.81,-1.0,1.032,No major policy,Oil price shock
+13/04/2022,4.31,2.45,703.48,595.7,0.88,0.98,Inflation targeting,Global inflation surge
+14/04/2022,4.31,-2.13,189.48,-1144.65,0.06,1.041,No major policy,Oil price shock
+15/04/2022,4.31,1.31,-86.55,-826.77,-0.89,1.125,Repo rate hike,No major event
+18/04/2022,4.31,0.2,134.22,-114.98,0.86,1.056,Liquidity injection,No major event
+19/04/2022,4.31,0.38,-275.96,-208.84,0.27,1.069,Fiscal stimulus,Pandemic impact
+20/04/2022,4.31,0.21,-149.03,-966.46,0.6,1.043,Banking sector regulation,Tech sector boom
+21/04/2022,4.31,1.93,636.05,-985.76,-0.91,1.123,Repo rate hike,Oil price shock
+22/04/2022,4.31,-1.34,33.51,-428.84,-0.2,1.035,FDI policy update,Geopolitical tensions
+25/04/2022,4.31,-0.28,182.53,1364.89,-0.6,1.073,Liquidity injection,Pandemic impact
+26/04/2022,4.31,1.53,-60.6,506.56,-0.97,1.07,GST change,Oil price shock
+27/04/2022,4.31,-0.47,440.41,-771.45,1.03,1.113,GST change,US Fed rate hike
+28/04/2022,4.31,-0.44,-361.16,-1734.31,-0.43,1.012,Export policy revision,Emerging market rally
+29/04/2022,4.31,-1.93,-356.12,-1085.06,0.39,1.056,Inflation targeting,Global inflation surge
+02/05/2022,4.31,2.47,-233.35,566.26,0.06,1.13,GST change,Commodity supercycle
+03/05/2022,4.31,2.06,567.98,2361.64,-0.55,1.062,Interest rate cut,Pandemic impact
+04/05/2022,4.31,-2.12,1415.52,1438.03,-0.29,1.113,GST change,Pandemic impact
+05/05/2022,4.31,-1.62,908.81,-605.08,0.53,1.044,Fiscal stimulus,Tech sector boom
+06/05/2022,4.31,0.27,166.17,1483.41,-1.11,0.958,Inflation targeting,Tech sector boom
+09/05/2022,4.31,0.23,810.01,680.52,-1.18,1.086,Fiscal stimulus,Emerging market rally
+10/05/2022,4.31,2.1,129.63,-1967.39,-1.13,1.069,Repo rate hike,No major event
+11/05/2022,4.31,-2.05,-439.86,2720.81,1.03,1.098,No major policy,Oil price shock
+12/05/2022,4.31,-0.38,1163.77,184.93,-0.76,0.984,Banking sector regulation,Oil price shock
+13/05/2022,4.31,-1.44,305.98,-1725.66,-1.17,1.123,Banking sector regulation,Major trade agreement
+16/05/2022,4.31,2.21,413.73,-121.36,-0.0,1.087,No major policy,Emerging market rally
+17/05/2022,4.31,1.89,-42.28,1870.28,1.07,0.977,Monetary easing,Major trade agreement
+18/05/2022,4.31,0.09,1342.31,92.91,0.19,1.095,FDI policy update,Pandemic impact
+19/05/2022,4.31,1.27,1300.51,1576.09,-1.45,1.027,GST change,Geopolitical tensions
+20/05/2022,4.31,-0.88,-436.14,2083.86,1.0,1.019,FDI policy update,Commodity supercycle
+23/05/2022,4.31,-0.87,-295.9,-127.64,1.11,1.126,Banking sector regulation,Global inflation surge
+24/05/2022,4.31,-2.21,1436.01,-68.86,1.1,1.05,FDI policy update,Commodity supercycle
+25/05/2022,4.31,-1.72,161.8,2607.48,-0.11,0.974,GST change,Oil price shock
+26/05/2022,4.31,-0.37,-135.7,-181.52,-0.99,0.955,Inflation targeting,Geopolitical tensions
+27/05/2022,4.31,2.42,-364.44,1990.38,-0.49,1.044,FDI policy update,Commodity supercycle
+30/05/2022,4.31,-0.54,-362.97,-30.15,0.58,1.13,Inflation targeting,US Fed rate hike
+31/05/2022,4.31,-0.53,730.39,317.23,0.41,1.067,Direct tax reform,Major trade agreement
+01/06/2022,4.31,0.05,-91.19,1025.62,-0.84,1.135,Inflation targeting,Tech sector boom
+02/06/2022,4.31,2.0,153.05,-33.11,-0.22,1.011,No major policy,Tech sector boom
+03/06/2022,4.31,-0.43,142.48,1760.94,-1.08,1.028,Fiscal stimulus,Commodity supercycle
+06/06/2022,4.31,-0.14,1070.04,2306.41,0.36,1.139,Repo rate hike,Global recession fears
+07/06/2022,4.31,-1.84,460.38,1769.89,-0.73,0.998,Liquidity injection,Tech sector boom
+08/06/2022,4.31,1.4,173.93,618.82,0.94,1.051,Capital controls,Major trade agreement
+09/06/2022,4.31,-0.81,406.72,1427.77,0.37,1.113,Interest rate cut,Global recession fears
+10/06/2022,4.31,-2.28,285.85,281.62,0.46,0.979,Direct tax reform,Commodity supercycle
+13/06/2022,4.31,-2.07,729.36,-300.64,-1.01,1.132,FDI policy update,Oil price shock
+14/06/2022,4.31,0.23,261.33,-1966.03,-0.42,1.058,GST change,Global recession fears
+15/06/2022,4.31,2.39,1103.68,1614.93,1.34,1.101,Repo rate hike,Pandemic impact
+16/06/2022,4.31,0.83,-131.24,1963.72,-0.99,1.106,Direct tax reform,Geopolitical tensions
+17/06/2022,4.31,-0.91,-12.47,-1946.43,0.98,1.119,Liquidity injection,No major event
+20/06/2022,4.31,1.87,1308.41,274.74,-1.08,1.07,Inflation targeting,Pandemic impact
+21/06/2022,4.31,-2.03,32.3,1660.55,1.39,1.001,Liquidity injection,Major trade agreement
+22/06/2022,4.31,1.84,861.15,325.26,-1.07,1.026,Interest rate cut,No major event
+23/06/2022,4.31,-2.0,949.34,-1207.06,-1.43,0.968,No major policy,Pandemic impact
+24/06/2022,4.31,-0.5,962.98,388.29,0.6,0.984,FDI policy update,Major trade agreement
+27/06/2022,4.31,1.19,839.04,-896.58,0.49,1.141,Repo rate hike,No major event
+28/06/2022,4.31,-0.03,86.86,752.52,0.32,1.105,Export policy revision,Commodity supercycle
+29/06/2022,4.31,-0.44,-143.24,-442.32,-0.03,0.967,Repo rate hike,Geopolitical tensions
+30/06/2022,4.31,-1.54,1498.31,-1868.77,-1.03,1.143,Monetary easing,Oil price shock
+01/07/2022,4.45,1.28,128.91,565.67,-1.19,0.965,Capital controls,Tech sector boom
+04/07/2022,4.45,-0.07,1343.64,2128.92,-0.48,1.052,Repo rate hike,Major trade agreement
+05/07/2022,4.45,-2.35,362.74,-1093.1,0.63,1.118,No major policy,Geopolitical tensions
+06/07/2022,4.45,-0.82,88.06,2083.07,-0.91,1.118,FDI policy update,Oil price shock
+07/07/2022,4.45,1.26,285.41,2181.9,-0.25,1.057,Capital controls,Geopolitical tensions
+08/07/2022,4.45,-1.39,563.44,-343.84,-0.67,1.13,Monetary easing,Commodity supercycle
+11/07/2022,4.45,-0.24,1388.16,-373.59,1.19,1.067,Export policy revision,US Fed rate hike
+12/07/2022,4.45,-0.49,153.4,1643.88,-1.26,1.095,FDI policy update,Major trade agreement
+13/07/2022,4.45,2.03,-133.17,2612.06,-1.13,1.062,Banking sector regulation,Tech sector boom
+14/07/2022,4.45,2.46,889.14,1104.92,-0.92,1.077,Fiscal stimulus,Major trade agreement
+15/07/2022,4.45,2.13,-350.29,23.03,-1.47,1.072,Fiscal stimulus,Pandemic impact
+18/07/2022,4.45,2.42,-338.77,899.29,0.25,0.969,Direct tax reform,Global inflation surge
+19/07/2022,4.45,1.21,585.5,1521.55,-0.04,1.108,Banking sector regulation,Global inflation surge
+20/07/2022,4.45,-0.3,964.29,-859.96,1.12,0.974,GST change,Geopolitical tensions
+21/07/2022,4.45,-0.01,-454.44,975.84,0.93,0.988,GST change,US Fed rate hike
+22/07/2022,4.45,-0.52,512.74,-817.93,0.88,0.951,Liquidity injection,Global inflation surge
+25/07/2022,4.45,-1.32,-341.88,75.48,1.1,1.139,No major policy,Commodity supercycle
+26/07/2022,4.45,-2.24,-175.44,2920.53,0.41,1.01,Liquidity injection,Oil price shock
+27/07/2022,4.45,1.66,1009.06,-393.94,0.63,1.03,FDI policy update,Pandemic impact
+28/07/2022,4.45,-0.38,-442.43,1707.39,-1.44,1.038,GST change,Pandemic impact
+29/07/2022,4.45,1.32,-128.46,-1465.52,1.05,1.051,GST change,Global inflation surge
+01/08/2022,4.45,-2.11,92.53,-210.87,1.55,1.02,GST change,Tech sector boom
+02/08/2022,4.45,-1.3,87.01,2776.83,1.72,1.046,Interest rate cut,Oil price shock
+03/08/2022,4.45,-1.03,1374.87,1710.0,0.76,1.136,Monetary easing,Geopolitical tensions
+04/08/2022,4.45,0.12,1062.94,-896.31,0.57,1.077,Monetary easing,Geopolitical tensions
+05/08/2022,4.45,1.21,488.86,1915.78,-0.92,1.054,Repo rate hike,Commodity supercycle
+08/08/2022,4.45,0.32,487.93,-100.87,-0.78,1.105,Interest rate cut,Global recession fears
+09/08/2022,4.45,-2.08,1419.52,-1461.93,0.03,1.012,FDI policy update,Major trade agreement
+10/08/2022,4.45,0.57,590.52,-898.33,0.52,1.095,Capital controls,Geopolitical tensions
+11/08/2022,4.45,-1.73,899.15,2357.14,-0.34,1.018,Export policy revision,Tech sector boom
+12/08/2022,4.45,1.48,599.19,100.89,0.77,1.125,Monetary easing,Oil price shock
+15/08/2022,4.45,-1.16,693.34,2747.88,1.16,1.001,Repo rate hike,Oil price shock
+16/08/2022,4.45,0.4,-358.91,2131.01,0.76,1.126,GST change,Emerging market rally
+17/08/2022,4.45,-2.11,950.31,1306.15,0.74,0.997,FDI policy update,Global recession fears
+18/08/2022,4.45,1.02,9.3,1079.04,0.03,1.067,Inflation targeting,No major event
+19/08/2022,4.45,-2.35,185.07,2216.7,-0.27,0.983,Direct tax reform,Pandemic impact
+22/08/2022,4.45,-1.16,1341.1,2701.19,0.01,1.106,Inflation targeting,Emerging market rally
+23/08/2022,4.45,0.34,456.52,114.15,-0.96,1.054,Export policy revision,Pandemic impact
+24/08/2022,4.45,-0.28,1202.51,179.03,-0.81,1.014,Inflation targeting,Pandemic impact
+25/08/2022,4.45,-2.39,-335.16,-282.11,-1.39,1.113,Fiscal stimulus,Global inflation surge
+26/08/2022,4.45,0.88,1011.54,2177.89,0.52,1.03,Export policy revision,Pandemic impact
+29/08/2022,4.45,1.02,-12.96,-1604.82,-0.22,1.045,Interest rate cut,Emerging market rally
+30/08/2022,4.45,-1.07,185.31,-832.4,-0.46,1.025,Inflation targeting,Emerging market rally
+31/08/2022,4.45,2.19,1248.82,-654.04,-0.46,1.001,Direct tax reform,Oil price shock
+01/09/2022,4.45,-1.88,875.43,1048.65,0.34,1.05,Direct tax reform,Tech sector boom
+02/09/2022,4.45,2.41,-294.32,2488.55,-1.42,1.084,Monetary easing,Commodity supercycle
+05/09/2022,4.45,1.01,1177.43,-1674.17,-0.39,0.973,Capital controls,Emerging market rally
+06/09/2022,4.45,-0.37,764.12,-1201.47,-1.13,1.06,Export policy revision,Emerging market rally
+07/09/2022,4.45,-2.0,197.17,880.84,-0.2,0.966,Inflation targeting,Pandemic impact
+08/09/2022,4.45,0.04,1265.89,1366.16,0.29,0.972,FDI policy update,US Fed rate hike
+09/09/2022,4.45,-0.49,474.63,-1570.79,1.16,1.002,FDI policy update,Oil price shock
+12/09/2022,4.45,-0.02,50.32,-331.65,0.51,1.147,Repo rate hike,US Fed rate hike
+13/09/2022,4.45,0.16,507.85,-945.04,1.52,0.991,Inflation targeting,No major event
+14/09/2022,4.45,-0.05,-157.39,-1299.71,1.05,1.051,FDI policy update,Oil price shock
+15/09/2022,4.45,1.15,-14.81,672.77,-1.04,0.969,Repo rate hike,Geopolitical tensions
+16/09/2022,4.45,-1.53,158.99,735.83,-0.36,1.032,Repo rate hike,Commodity supercycle
+19/09/2022,4.45,1.88,964.76,-663.77,-0.15,0.992,GST change,Major trade agreement
+20/09/2022,4.45,-0.67,620.65,2755.93,-0.24,0.976,Banking sector regulation,Global inflation surge
+21/09/2022,4.45,-1.47,68.93,2929.44,0.32,0.971,Inflation targeting,Pandemic impact
+22/09/2022,4.45,1.31,1164.41,1717.84,0.16,0.967,Repo rate hike,Oil price shock
+23/09/2022,4.45,-2.25,307.07,-1231.29,0.73,0.958,No major policy,Pandemic impact
+26/09/2022,4.45,-0.93,133.67,1760.19,-1.39,1.137,Repo rate hike,Commodity supercycle
+27/09/2022,4.45,-0.95,829.91,1778.94,-0.49,1.048,Banking sector regulation,Pandemic impact
+28/09/2022,4.45,1.22,1188.28,2777.63,1.5,1.071,Inflation targeting,No major event
+29/09/2022,4.45,0.06,524.13,536.8,-1.23,1.132,Liquidity injection,Geopolitical tensions
+30/09/2022,4.45,-1.12,1348.85,-85.77,1.09,1.142,Direct tax reform,Pandemic impact
+03/10/2022,6.8,0.19,903.04,385.26,-0.4,1.138,Interest rate cut,Emerging market rally
+04/10/2022,6.8,2.3,894.28,1143.59,-0.13,1.126,Repo rate hike,US Fed rate hike
+05/10/2022,6.8,-0.45,301.6,1576.89,0.71,1.13,Interest rate cut,No major event
+06/10/2022,6.8,-0.93,777.39,1292.88,1.05,1.023,Banking sector regulation,Geopolitical tensions
+07/10/2022,6.8,0.79,481.37,-1256.95,1.69,1.088,GST change,Emerging market rally
+10/10/2022,6.8,1.69,616.58,2512.64,0.72,0.976,Interest rate cut,US Fed rate hike
+11/10/2022,6.8,0.82,1371.86,2584.56,1.26,1.068,Monetary easing,Major trade agreement
+12/10/2022,6.8,1.19,646.91,-997.93,1.42,0.958,FDI policy update,Commodity supercycle
+13/10/2022,6.8,-2.15,-435.31,1893.05,-0.45,1.036,Repo rate hike,Geopolitical tensions
+14/10/2022,6.8,-1.13,1203.16,2409.38,0.63,0.974,Interest rate cut,Geopolitical tensions
+17/10/2022,6.8,0.81,170.31,2946.71,0.52,1.019,GST change,US Fed rate hike
+18/10/2022,6.8,2.39,-362.56,-214.51,-0.75,1.036,Fiscal stimulus,Geopolitical tensions
+19/10/2022,6.8,1.61,1134.81,-662.22,-0.73,1.043,Export policy revision,Pandemic impact
+20/10/2022,6.8,-1.87,74.91,-234.04,-0.92,1.012,Capital controls,Global inflation surge
+21/10/2022,6.8,-0.26,-322.11,2848.01,-0.4,0.981,Direct tax reform,Global inflation surge
+24/10/2022,6.8,-1.9,-172.12,2983.18,0.56,0.995,Capital controls,Global recession fears
+25/10/2022,6.8,1.32,1292.22,2832.52,1.63,1.061,GST change,No major event
+26/10/2022,6.8,2.15,-344.9,2311.14,1.8,0.961,Inflation targeting,Major trade agreement
+27/10/2022,6.8,-0.36,1426.03,1325.33,1.16,0.978,Interest rate cut,Oil price shock
+28/10/2022,6.8,-1.45,210.11,-602.49,1.61,1.086,Inflation targeting,Major trade agreement
+31/10/2022,6.8,1.37,982.9,-1235.45,-1.17,1.128,No major policy,Major trade agreement
+01/11/2022,6.8,-1.93,1296.98,-1901.01,-0.81,1.069,FDI policy update,Global inflation surge
+02/11/2022,6.8,0.35,869.9,-329.32,-1.38,1.047,Inflation targeting,Global inflation surge
+03/11/2022,6.8,0.1,-481.48,2714.23,0.82,1.133,Fiscal stimulus,Global recession fears
+04/11/2022,6.8,1.06,976.03,-1479.01,1.26,0.99,Capital controls,Global recession fears
+07/11/2022,6.8,-0.87,453.04,234.78,0.99,1.077,Liquidity injection,Major trade agreement
+08/11/2022,6.8,1.54,55.41,2549.21,0.2,1.071,Monetary easing,No major event
+09/11/2022,6.8,-2.33,277.08,2488.8,-0.07,1.118,Fiscal stimulus,Oil price shock
+10/11/2022,6.8,-1.07,189.46,813.31,1.07,1.028,GST change,Commodity supercycle
+11/11/2022,6.8,-0.03,-157.96,-1134.66,-1.09,1.115,Direct tax reform,Global recession fears
+14/11/2022,6.8,-0.11,-30.49,-892.74,0.82,0.985,Liquidity injection,Pandemic impact
+15/11/2022,6.8,0.41,395.97,-1015.59,1.74,1.123,FDI policy update,Major trade agreement
+16/11/2022,6.8,-0.76,1177.07,-225.06,1.11,1.124,GST change,Global recession fears
+17/11/2022,6.8,2.12,157.58,2405.24,1.11,0.987,Repo rate hike,No major event
+18/11/2022,6.8,2.18,686.11,803.43,-0.57,1.142,Inflation targeting,Pandemic impact
+21/11/2022,6.8,-1.66,-368.14,-429.15,1.77,0.998,Export policy revision,Pandemic impact
+22/11/2022,6.8,0.48,236.1,-258.8,-0.39,1.054,Inflation targeting,Commodity supercycle
+23/11/2022,6.8,-1.32,123.85,2502.1,-0.46,1.132,Direct tax reform,Emerging market rally
+24/11/2022,6.8,1.31,1042.47,77.52,0.75,0.994,Repo rate hike,No major event
+25/11/2022,6.8,1.36,823.23,2295.87,0.05,1.146,No major policy,Geopolitical tensions
+28/11/2022,6.8,1.42,-101.53,-949.55,1.11,1.107,Liquidity injection,Pandemic impact
+29/11/2022,6.8,-1.14,-441.74,379.54,1.11,1.093,Fiscal stimulus,Geopolitical tensions
+30/11/2022,6.8,-1.13,-265.94,2880.55,-0.76,1.143,Interest rate cut,US Fed rate hike
+01/12/2022,6.8,0.64,-338.74,840.05,1.77,1.132,Direct tax reform,Global recession fears
+02/12/2022,6.8,2.31,-40.23,-1851.65,0.6,1.039,Direct tax reform,Tech sector boom
+05/12/2022,6.8,-2.07,862.48,1958.42,-0.44,1.104,Direct tax reform,Oil price shock
+06/12/2022,6.8,0.0,891.85,1990.32,-1.22,0.983,Export policy revision,Emerging market rally
+07/12/2022,6.8,-0.22,673.54,-1333.98,-1.31,1.133,Export policy revision,No major event
+08/12/2022,6.8,-0.16,-345.36,-365.35,-0.03,1.104,Capital controls,Pandemic impact
+09/12/2022,6.8,-2.4,861.91,-345.48,0.34,1.087,Capital controls,Commodity supercycle
+12/12/2022,6.8,-1.04,442.83,-586.72,1.57,1.115,Liquidity injection,Commodity supercycle
+13/12/2022,6.8,-2.21,1124.94,2263.13,-0.93,1.142,Repo rate hike,Global recession fears
+14/12/2022,6.8,-1.76,134.11,-314.14,0.49,0.999,GST change,No major event
+15/12/2022,6.8,-0.88,331.17,-1972.51,1.21,1.053,Interest rate cut,Pandemic impact
+16/12/2022,6.8,-2.29,286.16,1327.55,0.87,1.127,Inflation targeting,No major event
+19/12/2022,6.8,-1.99,901.4,1650.44,0.44,1.014,No major policy,Global recession fears
+20/12/2022,6.8,-2.49,598.0,69.6,1.66,0.99,Capital controls,Commodity supercycle
+21/12/2022,6.8,-2.46,703.04,636.47,0.69,1.048,Liquidity injection,Oil price shock
+22/12/2022,6.8,1.28,719.61,-915.41,0.48,1.137,Interest rate cut,No major event
+23/12/2022,6.8,1.95,1365.37,-514.12,1.73,0.986,Fiscal stimulus,No major event
+26/12/2022,6.8,-2.01,-466.39,1713.78,0.11,1.105,GST change,US Fed rate hike
+27/12/2022,6.8,-0.41,-485.63,1575.05,0.76,1.107,Direct tax reform,No major event
+28/12/2022,6.8,0.2,189.57,737.57,-1.1,1.063,Fiscal stimulus,Global recession fears
+29/12/2022,6.8,2.3,1042.9,141.69,-1.42,0.997,Interest rate cut,Pandemic impact
+30/12/2022,6.8,0.8,487.94,-715.6,1.22,1.108,Capital controls,Major trade agreement
+02/01/2023,8.53,-0.47,1139.61,838.99,1.13,0.985,Capital controls,Pandemic impact
+03/01/2023,8.53,-1.21,-466.83,611.79,0.2,0.999,Repo rate hike,No major event
+04/01/2023,8.53,0.69,503.81,236.25,-0.93,1.016,Capital controls,Tech sector boom
+05/01/2023,8.53,-0.61,1180.2,1837.41,-0.62,0.973,FDI policy update,Tech sector boom
+06/01/2023,8.53,-1.36,1315.53,1689.26,1.42,0.99,Direct tax reform,Oil price shock
+09/01/2023,8.53,-1.72,1454.4,-487.44,1.55,1.086,Interest rate cut,Tech sector boom
+10/01/2023,8.53,1.55,1274.15,2545.09,1.14,1.021,GST change,Geopolitical tensions
+11/01/2023,8.53,-2.46,-488.91,2213.56,-1.05,1.061,Fiscal stimulus,Global recession fears
+12/01/2023,8.53,1.89,-293.54,-1797.19,1.01,1.031,Repo rate hike,Geopolitical tensions
+13/01/2023,8.53,-0.84,1412.18,1827.92,0.41,1.016,Repo rate hike,US Fed rate hike
+16/01/2023,8.53,-1.4,1012.89,-5.57,0.05,1.125,GST change,Pandemic impact
+17/01/2023,8.53,-2.17,680.83,273.77,-0.9,1.064,GST change,No major event
+18/01/2023,8.53,1.28,766.76,1782.19,0.58,1.005,Liquidity injection,Geopolitical tensions
+19/01/2023,8.53,-2.48,1389.27,1163.62,-0.5,1.09,Capital controls,Oil price shock
+20/01/2023,8.53,-2.3,-206.55,2748.4,-1.06,1.027,Interest rate cut,Pandemic impact
+23/01/2023,8.53,0.56,-304.21,-16.8,-1.01,0.967,Export policy revision,US Fed rate hike
+24/01/2023,8.53,1.73,-393.98,2504.03,0.57,1.058,Interest rate cut,US Fed rate hike
+25/01/2023,8.53,0.59,1200.08,423.55,-0.49,0.997,Interest rate cut,Pandemic impact
+26/01/2023,8.53,2.24,879.16,-1093.17,-0.41,1.01,Inflation targeting,Global recession fears
+27/01/2023,8.53,-1.62,852.12,-238.69,0.86,1.056,Banking sector regulation,Emerging market rally
+30/01/2023,8.53,-0.73,676.45,-1546.01,1.23,1.07,Export policy revision,Commodity supercycle
+31/01/2023,8.53,1.6,410.25,2215.46,1.79,0.974,Export policy revision,US Fed rate hike
+01/02/2023,8.53,1.09,666.06,628.24,-0.32,1.148,Liquidity injection,Global recession fears
+02/02/2023,8.53,1.95,458.58,-1817.99,1.2,1.149,Direct tax reform,Pandemic impact
+03/02/2023,8.53,-1.89,1128.28,1491.33,1.09,0.98,Fiscal stimulus,Oil price shock
+06/02/2023,8.53,-2.04,828.35,-1743.06,0.08,1.032,GST change,Global inflation surge
+07/02/2023,8.53,2.16,924.77,707.84,0.6,1.103,No major policy,Geopolitical tensions
+08/02/2023,8.53,-1.76,-165.11,978.6,-1.45,1.005,Fiscal stimulus,No major event
+09/02/2023,8.53,-0.77,-20.25,1181.34,1.47,1.009,Direct tax reform,Geopolitical tensions
+10/02/2023,8.53,2.17,104.41,-265.56,0.35,1.122,Repo rate hike,Global recession fears
+13/02/2023,8.53,-0.94,1113.53,-1798.17,-0.41,1.009,Direct tax reform,US Fed rate hike
+14/02/2023,8.53,0.99,-412.34,-1446.96,1.26,0.978,Capital controls,Geopolitical tensions
+15/02/2023,8.53,-0.62,599.0,169.72,0.66,1.106,Direct tax reform,Geopolitical tensions
+16/02/2023,8.53,-0.17,551.56,1526.88,0.66,0.982,Liquidity injection,Geopolitical tensions
+17/02/2023,8.53,0.37,211.68,-1957.25,0.68,1.095,GST change,Tech sector boom
+20/02/2023,8.53,1.37,897.48,2463.48,0.11,1.064,GST change,Oil price shock
+21/02/2023,8.53,1.83,740.05,2367.7,1.73,0.973,Repo rate hike,Global inflation surge
+22/02/2023,8.53,0.12,-271.19,1032.51,-1.26,1.049,Monetary easing,Oil price shock
+23/02/2023,8.53,0.45,732.66,2747.21,1.47,0.985,Liquidity injection,Global recession fears
+24/02/2023,8.53,-0.21,1258.47,-591.18,1.05,1.0,Banking sector regulation,Global recession fears
+27/02/2023,8.53,-2.01,1391.45,2413.58,-0.35,1.021,Export policy revision,Tech sector boom
+28/02/2023,8.53,1.83,345.44,1503.34,-0.89,1.053,FDI policy update,Pandemic impact
+01/03/2023,8.53,-1.83,332.6,-1129.41,0.91,1.055,GST change,Geopolitical tensions
+02/03/2023,8.53,-0.29,56.95,-292.33,-0.83,1.103,Repo rate hike,Major trade agreement
+03/03/2023,8.53,-0.94,1161.74,-1679.66,-0.3,0.962,Liquidity injection,Commodity supercycle
+06/03/2023,8.53,-1.21,1142.63,1840.02,-0.3,1.055,Capital controls,Oil price shock
+07/03/2023,8.53,1.84,214.54,2349.05,-0.86,1.053,Inflation targeting,Global recession fears
+08/03/2023,8.53,0.73,441.58,-392.98,-0.4,0.969,Direct tax reform,Global inflation surge
+09/03/2023,8.53,-0.29,-26.34,-519.85,-0.05,1.0,Liquidity injection,Emerging market rally
+10/03/2023,8.53,-0.34,260.52,121.78,-0.06,0.994,Liquidity injection,Global inflation surge
+13/03/2023,8.53,2.05,721.22,1788.93,1.25,0.99,Direct tax reform,Geopolitical tensions
+14/03/2023,8.53,-1.26,361.97,23.91,0.78,0.956,Liquidity injection,Tech sector boom
+15/03/2023,8.53,2.48,552.92,2034.76,-1.46,1.105,Liquidity injection,Emerging market rally
+16/03/2023,8.53,-2.43,-198.5,260.98,1.58,1.137,Monetary easing,Oil price shock
+17/03/2023,8.53,-0.74,280.94,1201.69,-0.83,0.983,Export policy revision,No major event
+20/03/2023,8.53,-0.09,1386.71,1480.1,1.77,1.033,Fiscal stimulus,US Fed rate hike
+21/03/2023,8.53,-2.17,7.19,2828.31,-0.9,1.116,Interest rate cut,Global inflation surge
+22/03/2023,8.53,0.69,-398.65,363.2,0.04,1.068,FDI policy update,US Fed rate hike
+23/03/2023,8.53,1.35,-224.79,452.46,0.22,0.966,Liquidity injection,Pandemic impact
+24/03/2023,8.53,1.58,341.47,2574.94,1.24,1.001,Liquidity injection,US Fed rate hike
+27/03/2023,8.53,1.17,629.61,-203.39,0.67,1.067,Monetary easing,No major event
+28/03/2023,8.53,2.36,148.27,1763.93,-0.39,1.123,Repo rate hike,Global inflation surge
+29/03/2023,8.53,1.62,610.99,1762.7,-0.49,1.137,GST change,Tech sector boom
+30/03/2023,8.53,-0.05,518.2,2328.24,1.38,0.996,Inflation targeting,Commodity supercycle
+31/03/2023,8.53,-1.31,36.43,-931.35,-0.56,1.025,Banking sector regulation,Emerging market rally
+03/04/2023,7.34,1.35,1161.67,1777.08,1.77,0.954,No major policy,Oil price shock
+04/04/2023,7.34,2.33,-116.87,-1357.61,-1.42,1.003,Direct tax reform,Tech sector boom
+05/04/2023,7.34,0.06,691.32,1808.82,-0.01,0.972,Export policy revision,No major event
+06/04/2023,7.34,0.79,1385.25,1757.96,1.23,0.993,Export policy revision,Global inflation surge
+07/04/2023,7.34,0.77,-305.06,-889.62,0.77,0.959,Export policy revision,Geopolitical tensions
+10/04/2023,7.34,1.53,1265.64,-728.81,1.64,0.956,Banking sector regulation,Major trade agreement
+11/04/2023,7.34,1.59,1183.09,2966.59,-1.39,1.045,Direct tax reform,Pandemic impact
+12/04/2023,7.34,-0.19,190.5,556.23,1.27,1.083,FDI policy update,Commodity supercycle
+13/04/2023,7.34,2.41,1192.0,550.69,1.7,1.065,Liquidity injection,Major trade agreement
+14/04/2023,7.34,1.57,1321.69,1994.39,-0.42,1.143,GST change,Commodity supercycle
+17/04/2023,7.34,1.69,-408.97,-944.73,1.49,1.116,Liquidity injection,No major event
+18/04/2023,7.34,1.06,819.72,-835.52,-0.48,1.061,No major policy,Global recession fears
+19/04/2023,7.34,-0.95,1250.36,-435.02,-1.48,1.149,GST change,Global recession fears
+20/04/2023,7.34,-2.08,1455.55,1034.97,0.75,0.969,GST change,Tech sector boom
+21/04/2023,7.34,-0.44,-271.45,1814.9,-0.26,0.983,FDI policy update,Commodity supercycle
+24/04/2023,7.34,0.87,1143.21,-1740.11,-0.79,1.121,FDI policy update,Pandemic impact
+25/04/2023,7.34,-0.8,1465.54,1027.89,-0.68,1.126,Monetary easing,Commodity supercycle
+26/04/2023,7.34,1.96,546.11,-413.7,-0.21,0.954,GST change,Oil price shock
+27/04/2023,7.34,0.62,1056.52,1309.67,-0.26,0.974,Fiscal stimulus,Emerging market rally
+28/04/2023,7.34,2.45,606.14,-1863.07,0.61,1.001,Monetary easing,Tech sector boom
+01/05/2023,7.34,-1.6,-492.98,679.27,-0.83,1.0,Inflation targeting,No major event
+02/05/2023,7.34,-1.47,990.78,504.15,-0.19,1.002,GST change,Emerging market rally
+03/05/2023,7.34,0.63,1247.76,2310.35,-1.02,1.033,Liquidity injection,Global recession fears
+04/05/2023,7.34,-0.69,291.8,41.8,0.6,0.957,GST change,Global recession fears
+05/05/2023,7.34,-0.31,1369.84,1394.79,1.56,1.094,Capital controls,Oil price shock
+08/05/2023,7.34,1.24,1164.59,1008.82,-0.82,1.086,Fiscal stimulus,US Fed rate hike
+09/05/2023,7.34,0.96,409.62,484.31,-0.21,1.088,Inflation targeting,Emerging market rally
+10/05/2023,7.34,1.19,40.65,-1464.82,1.16,1.09,Direct tax reform,No major event
+11/05/2023,7.34,0.26,205.41,-1393.38,-1.32,1.083,No major policy,Geopolitical tensions
+12/05/2023,7.34,-0.3,143.98,533.06,-0.74,1.143,Capital controls,US Fed rate hike
+15/05/2023,7.34,0.32,1300.24,-664.5,0.72,1.134,Capital controls,Emerging market rally
+16/05/2023,7.34,2.45,532.1,-1126.6,1.62,1.121,FDI policy update,No major event
+17/05/2023,7.34,2.11,636.93,202.48,1.45,1.022,Direct tax reform,Pandemic impact
+18/05/2023,7.34,-0.62,727.6,972.69,0.06,1.076,Liquidity injection,US Fed rate hike
+19/05/2023,7.34,-0.35,1039.66,-1170.6,-1.04,0.957,GST change,Tech sector boom
+22/05/2023,7.34,0.64,549.58,2641.89,1.75,0.981,Interest rate cut,No major event
+23/05/2023,7.34,1.62,-293.24,-1777.93,-1.37,1.01,Export policy revision,Global inflation surge
+24/05/2023,7.34,1.35,1004.45,1802.38,-0.81,1.005,GST change,Pandemic impact
+25/05/2023,7.34,-2.12,1360.17,169.29,1.53,1.03,Monetary easing,Global recession fears
+26/05/2023,7.34,-0.98,1400.38,-1039.05,0.27,1.104,Capital controls,Global inflation surge
+29/05/2023,7.34,2.12,689.46,2608.25,0.02,1.013,No major policy,Geopolitical tensions
+30/05/2023,7.34,1.58,-385.51,-1636.82,0.49,1.066,GST change,Emerging market rally
+31/05/2023,7.34,-0.82,970.45,1043.7,-0.55,1.14,Repo rate hike,Major trade agreement
+01/06/2023,7.34,-1.81,-9.3,-370.81,1.18,1.107,Inflation targeting,Major trade agreement
+02/06/2023,7.34,-0.53,1394.05,-890.64,1.76,1.119,Monetary easing,Geopolitical tensions
+05/06/2023,7.34,0.98,-273.77,-960.25,0.63,1.096,FDI policy update,Global recession fears
+06/06/2023,7.34,-1.23,1305.63,-1533.8,-1.11,1.035,No major policy,Major trade agreement
+07/06/2023,7.34,-0.85,1444.14,350.13,1.62,1.049,Direct tax reform,Tech sector boom
+08/06/2023,7.34,-0.72,379.44,1887.05,1.45,1.056,GST change,Oil price shock
+09/06/2023,7.34,2.08,370.99,1759.73,-0.96,0.97,GST change,Geopolitical tensions
+12/06/2023,7.34,2.14,1305.83,1191.03,-0.85,1.095,Liquidity injection,Global inflation surge
+13/06/2023,7.34,0.77,518.05,-751.84,-1.01,1.022,Banking sector regulation,Major trade agreement
+14/06/2023,7.34,-2.09,-276.17,1995.47,0.54,1.15,No major policy,US Fed rate hike
+15/06/2023,7.34,0.06,1341.03,-1496.18,-0.35,0.957,Liquidity injection,Pandemic impact
+16/06/2023,7.34,2.48,-172.44,2395.85,-1.39,1.019,Direct tax reform,Geopolitical tensions
+19/06/2023,7.34,1.05,1453.19,390.45,-0.76,1.114,Banking sector regulation,Geopolitical tensions
+20/06/2023,7.34,-1.99,498.83,1455.98,1.04,1.001,Repo rate hike,Major trade agreement
+21/06/2023,7.34,0.01,-472.5,2540.94,1.1,1.136,FDI policy update,Oil price shock
+22/06/2023,7.34,1.08,1434.61,2643.6,-1.43,1.029,Banking sector regulation,Global recession fears
+23/06/2023,7.34,-2.03,-460.71,-1028.03,1.49,1.098,Repo rate hike,Pandemic impact
+26/06/2023,7.34,0.67,203.55,1715.71,-0.69,1.015,Direct tax reform,Commodity supercycle
+27/06/2023,7.34,1.55,545.11,2031.86,1.47,1.006,No major policy,No major event
+28/06/2023,7.34,-1.33,1263.87,577.52,1.65,1.129,Repo rate hike,US Fed rate hike
+29/06/2023,7.34,-1.88,460.51,1264.67,-1.1,0.974,FDI policy update,Commodity supercycle
+30/06/2023,7.34,-0.26,-167.43,-1151.36,-0.03,0.998,Fiscal stimulus,Emerging market rally
+03/07/2023,4.98,0.47,867.73,424.73,-0.84,1.008,Fiscal stimulus,No major event
+04/07/2023,4.98,-2.01,1060.39,2611.51,1.67,1.133,Capital controls,Major trade agreement
+05/07/2023,4.98,-0.52,295.97,1230.93,-0.39,1.015,Banking sector regulation,Commodity supercycle
+06/07/2023,4.98,-0.49,135.67,1250.69,1.32,0.964,GST change,Oil price shock
+07/07/2023,4.98,-2.13,283.04,-1785.52,-1.35,1.099,Monetary easing,Oil price shock
+10/07/2023,4.98,-0.03,514.2,-642.73,-0.68,0.981,Banking sector regulation,US Fed rate hike
+11/07/2023,4.98,2.02,-117.89,-773.88,1.1,1.063,Liquidity injection,Major trade agreement
+12/07/2023,4.98,1.91,1175.47,559.01,-0.94,0.994,FDI policy update,Geopolitical tensions
+13/07/2023,4.98,0.12,1477.95,2904.29,-0.34,1.102,Direct tax reform,Commodity supercycle
+14/07/2023,4.98,0.96,1238.94,-1362.53,-0.58,0.973,Liquidity injection,No major event
+17/07/2023,4.98,1.02,614.69,-834.13,1.14,1.005,Repo rate hike,Global recession fears
+18/07/2023,4.98,-1.88,854.88,-1017.22,0.89,1.099,Direct tax reform,Emerging market rally
+19/07/2023,4.98,1.42,769.62,-943.02,1.07,1.028,No major policy,Global inflation surge
+20/07/2023,4.98,0.65,1239.59,-1777.83,1.69,0.991,Repo rate hike,Global recession fears
+21/07/2023,4.98,-0.15,104.9,826.03,1.76,1.018,Monetary easing,Major trade agreement
+24/07/2023,4.98,1.9,13.42,-1136.28,-0.93,1.052,Export policy revision,Geopolitical tensions
+25/07/2023,4.98,-0.81,1033.05,-584.59,-0.79,0.964,Banking sector regulation,No major event
+26/07/2023,4.98,-1.54,367.39,2947.98,-0.85,1.114,Capital controls,Pandemic impact
+27/07/2023,4.98,-1.46,953.31,922.5,-1.46,1.108,Fiscal stimulus,Major trade agreement
+28/07/2023,4.98,-2.4,-329.61,-786.84,-1.43,0.987,Export policy revision,Global inflation surge
+31/07/2023,4.98,1.05,1265.5,-1652.26,1.14,1.141,FDI policy update,Emerging market rally
+01/08/2023,4.98,-1.71,-405.84,-393.16,1.61,1.063,GST change,No major event
+02/08/2023,4.98,-2.35,895.24,-1472.11,0.68,0.972,Monetary easing,Geopolitical tensions
+03/08/2023,4.98,-1.89,-88.44,-207.19,1.47,1.131,Monetary easing,Tech sector boom
+04/08/2023,4.98,-0.53,206.32,-1851.53,0.98,0.986,Monetary easing,Global recession fears
+07/08/2023,4.98,2.15,185.51,-1715.52,0.1,0.999,FDI policy update,Major trade agreement
+08/08/2023,4.98,2.14,1213.69,2536.74,0.02,1.141,Monetary easing,US Fed rate hike
+09/08/2023,4.98,2.13,-106.39,-354.13,0.35,1.082,Monetary easing,Global inflation surge
+10/08/2023,4.98,0.43,928.62,-1823.69,1.75,1.126,Direct tax reform,No major event
+11/08/2023,4.98,-1.61,-130.19,1633.06,0.02,0.981,Monetary easing,Oil price shock
+14/08/2023,4.98,-0.23,-68.63,775.07,0.43,0.984,Liquidity injection,Emerging market rally
+15/08/2023,4.98,1.95,299.22,2707.42,-0.64,0.971,Liquidity injection,Global recession fears
+16/08/2023,4.98,-1.95,-60.6,358.69,0.33,1.016,Inflation targeting,Emerging market rally
+17/08/2023,4.98,0.82,244.26,-1603.35,-0.79,1.095,Banking sector regulation,Global recession fears
+18/08/2023,4.98,2.07,1276.53,1152.28,1.3,0.952,Monetary easing,Geopolitical tensions
+21/08/2023,4.98,-1.0,1078.67,857.43,1.65,1.075,Interest rate cut,Major trade agreement
+22/08/2023,4.98,1.59,954.59,-361.9,0.17,1.084,Inflation targeting,Commodity supercycle
+23/08/2023,4.98,0.21,-183.24,123.68,1.3,0.953,Direct tax reform,Commodity supercycle
+24/08/2023,4.98,-2.41,488.21,864.44,-0.09,0.996,Direct tax reform,Geopolitical tensions
+25/08/2023,4.98,-2.37,531.01,2994.43,1.8,1.04,Capital controls,No major event
+28/08/2023,4.98,-1.65,-369.87,1342.57,1.65,1.037,Banking sector regulation,Emerging market rally
+29/08/2023,4.98,0.34,181.38,2691.95,-0.46,0.994,Repo rate hike,Global inflation surge
+30/08/2023,4.98,-1.42,1079.32,2759.73,-0.65,1.084,Liquidity injection,Tech sector boom
+31/08/2023,4.98,-2.11,280.07,-1275.27,0.41,1.01,Capital controls,Major trade agreement
+01/09/2023,4.98,-0.63,872.86,-1882.2,1.67,1.007,Liquidity injection,Major trade agreement
+04/09/2023,4.98,-2.0,389.99,-1839.82,0.87,1.103,Banking sector regulation,US Fed rate hike
+05/09/2023,4.98,1.26,62.63,-1402.49,-1.43,1.035,Direct tax reform,Global recession fears
+06/09/2023,4.98,0.75,1105.67,-1567.3,0.56,0.973,Monetary easing,Oil price shock
+07/09/2023,4.98,-1.37,849.41,2216.83,-0.2,1.061,No major policy,Major trade agreement
+08/09/2023,4.98,2.42,1311.66,1243.09,-0.73,1.068,Direct tax reform,Pandemic impact
+11/09/2023,4.98,-1.89,-327.13,544.11,0.74,1.073,Export policy revision,Pandemic impact
+12/09/2023,4.98,-0.48,1389.88,1270.66,0.81,1.11,Interest rate cut,No major event
+13/09/2023,4.98,-0.44,1111.96,-1582.52,-0.18,1.122,Inflation targeting,Oil price shock
+14/09/2023,4.98,2.43,-429.31,-1086.58,1.45,0.971,Banking sector regulation,Global recession fears
+15/09/2023,4.98,0.66,-325.3,751.19,1.51,1.099,No major policy,Major trade agreement
+18/09/2023,4.98,-1.21,1302.45,2610.83,-0.84,1.019,Banking sector regulation,Global recession fears
+19/09/2023,4.98,0.33,782.26,-29.43,-1.31,0.972,FDI policy update,Geopolitical tensions
+20/09/2023,4.98,-1.77,325.24,418.06,0.68,0.992,Capital controls,Emerging market rally
+21/09/2023,4.98,1.68,-57.74,1452.53,1.2,1.114,Liquidity injection,Major trade agreement
+22/09/2023,4.98,0.91,1497.82,-1699.65,1.01,0.963,No major policy,Commodity supercycle
+25/09/2023,4.98,0.91,265.27,1398.52,-1.47,1.031,Repo rate hike,Global inflation surge
+26/09/2023,4.98,0.64,985.85,-1041.98,1.23,0.996,Repo rate hike,Emerging market rally
+27/09/2023,4.98,1.86,-219.33,689.97,-0.21,1.139,Direct tax reform,Global inflation surge
+28/09/2023,4.98,-2.44,837.99,2412.99,1.55,1.016,No major policy,Tech sector boom
+29/09/2023,4.98,2.26,-210.51,1843.7,-0.56,1.068,Fiscal stimulus,Pandemic impact
+02/10/2023,6.99,1.04,868.92,2098.7,0.22,1.093,Direct tax reform,Global inflation surge
+03/10/2023,6.99,-1.54,-113.34,1740.47,0.18,1.055,Interest rate cut,Major trade agreement
+04/10/2023,6.99,-1.69,813.25,-1828.54,-0.55,1.141,Capital controls,Global inflation surge
+05/10/2023,6.99,-0.07,1146.55,-965.12,1.08,1.133,Banking sector regulation,US Fed rate hike
+06/10/2023,6.99,0.31,795.7,-685.17,-0.88,1.028,Inflation targeting,Oil price shock
+09/10/2023,6.99,-1.35,1420.28,680.49,-1.16,1.121,Liquidity injection,Pandemic impact
+10/10/2023,6.99,-0.71,1209.63,279.83,-0.15,1.086,Interest rate cut,Tech sector boom
+11/10/2023,6.99,-2.19,259.14,-446.38,0.88,1.092,Monetary easing,Tech sector boom
+12/10/2023,6.99,-1.6,1238.01,2983.74,-0.65,1.028,Banking sector regulation,US Fed rate hike
+13/10/2023,6.99,-0.44,532.18,-1371.57,-0.47,0.97,Capital controls,Tech sector boom
+16/10/2023,6.99,-0.06,444.33,2158.01,-0.89,1.065,Capital controls,US Fed rate hike
+17/10/2023,6.99,-1.81,427.59,1998.72,0.76,0.989,Liquidity injection,Major trade agreement
+18/10/2023,6.99,1.34,-296.41,1727.36,-1.21,1.053,Fiscal stimulus,Commodity supercycle
+19/10/2023,6.99,0.32,582.02,2699.41,-1.28,1.102,Banking sector regulation,Tech sector boom
+20/10/2023,6.99,-0.48,367.08,1852.97,0.46,0.967,Repo rate hike,Global recession fears
+23/10/2023,6.99,0.5,1226.75,-1154.73,1.73,1.088,Inflation targeting,US Fed rate hike
+24/10/2023,6.99,-1.79,903.48,-51.2,-0.31,0.997,Banking sector regulation,Pandemic impact
+25/10/2023,6.99,1.43,-138.89,32.74,0.11,1.088,No major policy,No major event
+26/10/2023,6.99,-1.49,1109.61,-35.78,-1.06,0.953,Export policy revision,Tech sector boom
+27/10/2023,6.99,-2.49,-399.63,-1503.95,-1.47,0.971,Capital controls,Major trade agreement
+30/10/2023,6.99,1.01,1305.79,344.46,-1.09,1.001,Banking sector regulation,Geopolitical tensions
+31/10/2023,6.99,-0.48,805.13,-1031.25,1.79,0.977,FDI policy update,Pandemic impact
+01/11/2023,6.99,1.06,856.97,-105.96,-1.22,1.115,Liquidity injection,Oil price shock
+02/11/2023,6.99,1.92,1081.78,-1732.72,0.89,1.121,Repo rate hike,Global recession fears
+03/11/2023,6.99,1.22,998.96,1219.35,0.18,1.01,Export policy revision,Major trade agreement
+06/11/2023,6.99,2.13,87.84,1789.21,-0.35,0.951,Banking sector regulation,Major trade agreement
+07/11/2023,6.99,-1.06,422.59,1743.75,0.87,0.957,Inflation targeting,Oil price shock
+08/11/2023,6.99,-1.23,31.3,185.82,0.97,1.02,No major policy,US Fed rate hike
+09/11/2023,6.99,1.88,1206.76,1649.3,1.32,1.092,Banking sector regulation,Major trade agreement
+10/11/2023,6.99,-1.59,-171.45,1879.57,-1.43,0.965,Liquidity injection,No major event
+13/11/2023,6.99,2.13,1019.85,-1755.92,-0.47,1.03,Direct tax reform,US Fed rate hike
+14/11/2023,6.99,0.7,748.86,-80.68,1.27,0.952,FDI policy update,No major event
+15/11/2023,6.99,-1.95,1032.23,1943.89,-0.58,1.129,GST change,Geopolitical tensions
+16/11/2023,6.99,2.12,-349.28,-1232.99,1.46,1.146,Liquidity injection,Tech sector boom
+17/11/2023,6.99,0.52,940.8,1805.81,-0.06,1.003,Monetary easing,Geopolitical tensions
+20/11/2023,6.99,0.21,-78.74,2567.97,-0.41,0.986,Fiscal stimulus,Major trade agreement
+21/11/2023,6.99,-0.9,-203.49,-728.79,-1.11,1.05,Inflation targeting,US Fed rate hike
+22/11/2023,6.99,1.77,735.6,-447.63,1.75,1.05,Monetary easing,Emerging market rally
+23/11/2023,6.99,-0.34,970.99,-249.24,-0.81,0.972,Fiscal stimulus,Geopolitical tensions
+24/11/2023,6.99,1.09,1043.88,2817.01,-0.96,1.103,Monetary easing,No major event
+27/11/2023,6.99,-0.02,-439.77,1852.72,1.06,1.13,No major policy,Global inflation surge
+28/11/2023,6.99,1.43,736.75,474.09,1.7,1.074,Repo rate hike,Commodity supercycle
+29/11/2023,6.99,-1.2,-398.38,1669.53,1.48,1.072,Export policy revision,No major event
+30/11/2023,6.99,-0.31,422.65,1499.64,-0.62,1.065,Capital controls,Tech sector boom
+01/12/2023,6.99,2.01,672.47,2452.38,-0.57,0.997,Banking sector regulation,Tech sector boom
+04/12/2023,6.99,1.44,775.04,-640.23,1.29,1.122,Repo rate hike,Global inflation surge
+05/12/2023,6.99,0.83,15.84,2449.3,0.51,1.014,FDI policy update,No major event
+06/12/2023,6.99,1.94,1446.47,2313.86,0.24,1.06,Capital controls,Tech sector boom
+07/12/2023,6.99,-0.95,275.99,2172.95,-0.18,1.105,FDI policy update,Geopolitical tensions
+08/12/2023,6.99,-0.67,890.23,2183.0,-0.75,0.973,FDI policy update,Oil price shock
+11/12/2023,6.99,0.58,1371.01,-504.22,-0.31,0.992,Fiscal stimulus,Pandemic impact
+12/12/2023,6.99,1.25,-91.03,-527.75,-0.63,1.136,Export policy revision,Major trade agreement
+13/12/2023,6.99,-2.16,1202.46,2079.52,1.6,1.009,Inflation targeting,Major trade agreement
+14/12/2023,6.99,0.21,-455.76,-682.52,0.23,1.018,Export policy revision,Tech sector boom
+15/12/2023,6.99,1.75,1349.4,2485.83,0.21,1.057,Capital controls,Major trade agreement
+18/12/2023,6.99,1.82,332.31,1920.37,0.96,1.061,Export policy revision,Geopolitical tensions
+19/12/2023,6.99,-0.25,1143.7,-1065.15,-0.39,1.083,Export policy revision,Oil price shock
+20/12/2023,6.99,-2.06,861.15,1522.72,-1.17,0.971,FDI policy update,Major trade agreement
+21/12/2023,6.99,-0.61,1473.82,1922.47,-1.43,1.121,Inflation targeting,Geopolitical tensions
+22/12/2023,6.99,-2.37,923.01,-1709.7,-0.93,0.952,Repo rate hike,No major event
+25/12/2023,6.99,1.05,337.16,986.72,0.61,1.095,Inflation targeting,Global inflation surge
+26/12/2023,6.99,-0.96,-405.44,-1891.87,-0.97,0.957,Interest rate cut,Pandemic impact
+27/12/2023,6.99,-1.96,-449.34,-1721.74,-1.17,1.108,GST change,Tech sector boom
+28/12/2023,6.99,1.22,719.08,-1141.66,1.25,1.016,Direct tax reform,Pandemic impact
+29/12/2023,6.99,-0.36,496.31,-1326.44,-0.13,1.091,Repo rate hike,Oil price shock
+01/01/2024,5.44,1.05,208.12,-1085.71,1.34,1.009,Capital controls,Emerging market rally
+02/01/2024,5.44,-1.26,918.25,2315.67,-0.79,0.987,Inflation targeting,Global inflation surge
+03/01/2024,5.44,-0.56,1422.55,-475.52,0.36,0.969,Monetary easing,Tech sector boom
+04/01/2024,5.44,2.03,0.56,2361.64,-0.61,1.099,Interest rate cut,US Fed rate hike
+05/01/2024,5.44,-0.01,734.7,-927.07,1.01,1.106,Fiscal stimulus,Pandemic impact
+08/01/2024,5.44,0.49,331.71,1764.32,-0.16,1.093,Inflation targeting,Pandemic impact
+09/01/2024,5.44,2.18,-125.03,1100.12,0.93,1.051,Repo rate hike,Pandemic impact
+10/01/2024,5.44,0.72,-460.12,-1197.21,-1.32,1.138,Monetary easing,Pandemic impact
+11/01/2024,5.44,0.18,1172.5,2185.73,1.73,1.017,Capital controls,Global recession fears
+12/01/2024,5.44,-2.02,1491.08,2479.95,0.98,1.054,Monetary easing,Geopolitical tensions
+15/01/2024,5.44,-1.49,205.63,-1235.55,-0.74,1.026,Monetary easing,Major trade agreement
+16/01/2024,5.44,1.32,-448.71,92.93,-1.16,0.973,Export policy revision,Oil price shock
+17/01/2024,5.44,1.87,208.23,-394.24,0.51,1.127,GST change,No major event
+18/01/2024,5.44,-1.36,-207.13,-1927.99,1.29,1.098,Inflation targeting,US Fed rate hike
+19/01/2024,5.44,-2.0,-351.77,-1979.26,1.14,0.983,Banking sector regulation,Geopolitical tensions
+22/01/2024,5.44,-0.6,1378.07,2582.3,1.76,1.002,No major policy,Global inflation surge
+23/01/2024,5.44,1.3,-358.11,1272.7,1.62,0.978,Capital controls,Global recession fears
+24/01/2024,5.44,-0.88,-422.23,-870.31,-0.19,1.023,Liquidity injection,Geopolitical tensions
+25/01/2024,5.44,-0.24,114.83,-168.34,-1.46,1.041,Export policy revision,US Fed rate hike
+26/01/2024,5.44,-0.98,-125.96,-1012.06,-1.15,1.126,GST change,Geopolitical tensions
+29/01/2024,5.44,-1.88,1271.37,1965.32,-1.26,1.087,Export policy revision,Geopolitical tensions
+30/01/2024,5.44,1.03,1097.05,680.02,-0.95,1.114,Export policy revision,Geopolitical tensions
+31/01/2024,5.44,-2.23,-412.69,-549.9,-0.3,0.964,Capital controls,US Fed rate hike
+01/02/2024,5.44,1.91,676.76,1363.42,1.16,1.092,GST change,US Fed rate hike
+02/02/2024,5.44,-2.19,1007.31,-1337.32,0.08,1.032,Liquidity injection,Global inflation surge
+05/02/2024,5.44,0.07,-50.93,-309.47,-0.54,1.113,Direct tax reform,Oil price shock
+06/02/2024,5.44,-2.41,665.54,2006.86,0.73,1.057,Export policy revision,No major event
+07/02/2024,5.44,0.82,674.15,-1629.15,-1.32,1.113,Liquidity injection,US Fed rate hike
+08/02/2024,5.44,-1.31,1178.12,1055.48,0.54,1.074,GST change,Tech sector boom
+09/02/2024,5.44,-1.83,-25.25,2218.8,-1.17,1.094,Fiscal stimulus,Global recession fears
+12/02/2024,5.44,-1.25,1143.6,-1796.57,1.45,1.115,Export policy revision,No major event
+13/02/2024,5.44,-2.42,520.19,1612.64,-1.17,0.966,GST change,Emerging market rally
+14/02/2024,5.44,-1.2,1455.75,174.74,0.52,0.981,No major policy,Pandemic impact
+15/02/2024,5.44,-0.65,1313.88,-1519.67,-1.16,1.075,Direct tax reform,Pandemic impact
+16/02/2024,5.44,-1.47,-277.0,-27.19,0.07,0.958,No major policy,Emerging market rally
+19/02/2024,5.44,2.31,1239.43,-1876.27,0.57,1.024,GST change,Major trade agreement
+20/02/2024,5.44,1.02,-7.44,-1495.34,-0.57,1.016,Monetary easing,Geopolitical tensions
+21/02/2024,5.44,-0.63,945.52,2383.63,0.77,1.131,Direct tax reform,Commodity supercycle
+22/02/2024,5.44,0.3,1359.29,2317.68,1.58,0.992,FDI policy update,Major trade agreement
+23/02/2024,5.44,2.14,78.25,2265.23,-0.67,1.085,No major policy,Pandemic impact
+26/02/2024,5.44,-2.43,932.4,2164.43,-0.82,1.081,Fiscal stimulus,Emerging market rally
+27/02/2024,5.44,-0.02,1371.84,1014.8,-0.22,1.09,Repo rate hike,Oil price shock
+28/02/2024,5.44,0.48,1039.26,624.94,-1.38,0.977,Fiscal stimulus,Global recession fears
+29/02/2024,5.44,0.61,253.25,1945.22,-0.81,0.969,Inflation targeting,Emerging market rally
+01/03/2024,5.44,2.46,-465.19,-908.99,1.62,1.008,No major policy,Geopolitical tensions
+04/03/2024,5.44,2.22,434.78,-1396.49,-1.42,1.1,Direct tax reform,Tech sector boom
+05/03/2024,5.44,-1.23,721.81,-1222.2,0.7,1.038,FDI policy update,Major trade agreement
+06/03/2024,5.44,-1.97,1157.16,147.82,1.09,1.071,Export policy revision,Geopolitical tensions
+07/03/2024,5.44,0.47,1339.77,1355.41,1.54,0.962,Capital controls,No major event
+08/03/2024,5.44,0.11,168.9,1571.38,-1.16,0.966,Fiscal stimulus,Major trade agreement
+11/03/2024,5.44,-1.55,1486.22,-1605.72,-1.45,0.96,Direct tax reform,No major event
+12/03/2024,5.44,-0.37,1083.05,-368.25,0.56,0.977,Interest rate cut,Emerging market rally
+13/03/2024,5.44,1.23,-74.62,1353.49,-1.04,1.147,FDI policy update,Geopolitical tensions
+14/03/2024,5.44,-0.18,675.79,453.27,1.04,0.995,Banking sector regulation,Oil price shock
+15/03/2024,5.44,-1.21,-463.03,-314.92,0.42,0.956,No major policy,Emerging market rally
+18/03/2024,5.44,-0.5,1312.75,515.77,0.16,1.053,Capital controls,Global recession fears
+19/03/2024,5.44,-0.83,-496.56,-1498.97,-1.05,1.136,Inflation targeting,No major event
+20/03/2024,5.44,-0.6,-154.42,30.4,1.44,1.116,GST change,Emerging market rally
+21/03/2024,5.44,-0.82,632.77,-1664.68,-1.03,1.03,Export policy revision,Emerging market rally
+22/03/2024,5.44,0.54,1383.3,-1354.55,1.11,0.993,Capital controls,Commodity supercycle
+25/03/2024,5.44,-1.21,636.96,1266.35,1.69,1.053,Direct tax reform,Major trade agreement
+26/03/2024,5.44,1.94,187.97,-1820.46,-0.07,1.031,Repo rate hike,Global recession fears
+27/03/2024,5.44,0.97,226.52,2574.09,-0.45,1.001,FDI policy update,Major trade agreement
+28/03/2024,5.44,-1.04,-465.91,2625.22,0.36,1.034,Monetary easing,Pandemic impact
+29/03/2024,5.44,-0.95,1396.79,1151.28,0.89,1.079,Interest rate cut,No major event
+01/04/2024,8.44,0.52,-424.79,-249.0,1.11,1.078,Capital controls,Tech sector boom
+02/04/2024,8.44,-1.76,900.92,12.55,-0.54,0.973,Direct tax reform,Geopolitical tensions
+03/04/2024,8.44,1.79,338.74,2386.13,0.87,1.09,No major policy,Commodity supercycle
+04/04/2024,8.44,-0.89,443.43,618.75,-0.2,1.114,Interest rate cut,Commodity supercycle
+05/04/2024,8.44,-0.68,306.68,311.34,-0.74,0.967,Monetary easing,Geopolitical tensions
+08/04/2024,8.44,2.42,119.03,383.34,1.46,1.086,Monetary easing,Commodity supercycle
+09/04/2024,8.44,0.53,586.91,292.25,-0.35,0.994,Monetary easing,Global recession fears
+10/04/2024,8.44,0.33,1282.85,1137.71,0.55,1.113,Inflation targeting,Tech sector boom
+11/04/2024,8.44,0.62,-46.73,628.58,0.85,1.056,Capital controls,Global recession fears
+12/04/2024,8.44,-1.94,-339.23,1253.53,0.37,0.983,Export policy revision,Pandemic impact
+15/04/2024,8.44,-1.92,-186.23,-1152.15,1.63,0.95,Banking sector regulation,Global inflation surge
+16/04/2024,8.44,-2.23,961.09,954.65,0.9,1.022,Liquidity injection,Oil price shock
+17/04/2024,8.44,1.2,939.37,-462.93,0.38,1.127,Inflation targeting,Major trade agreement
+18/04/2024,8.44,0.98,1022.65,1.67,0.86,0.991,Fiscal stimulus,Global recession fears
+19/04/2024,8.44,-0.18,1219.7,2914.28,0.86,1.137,Interest rate cut,Global recession fears
+22/04/2024,8.44,1.9,-347.69,-1453.38,-0.22,1.088,Liquidity injection,Global recession fears
+23/04/2024,8.44,1.07,434.35,-1690.92,0.98,1.103,Inflation targeting,Major trade agreement
+24/04/2024,8.44,-0.03,466.01,1241.07,-0.14,1.072,Liquidity injection,Tech sector boom
+25/04/2024,8.44,0.37,-240.35,-961.18,-1.41,1.111,No major policy,Tech sector boom
+26/04/2024,8.44,-0.17,166.8,-1090.9,-0.76,1.013,Liquidity injection,Global inflation surge
+29/04/2024,8.44,-1.7,106.53,2436.63,1.73,1.003,Liquidity injection,Commodity supercycle
+30/04/2024,8.44,-2.3,1390.45,110.68,1.13,1.113,Export policy revision,Oil price shock
+01/05/2024,8.44,0.45,442.08,-1411.91,1.76,0.957,Direct tax reform,No major event
+02/05/2024,8.44,0.29,1161.16,-715.98,1.64,1.053,Banking sector regulation,No major event
+03/05/2024,8.44,-1.33,999.59,877.82,1.74,0.987,Repo rate hike,Commodity supercycle
+06/05/2024,8.44,-0.28,-476.09,435.34,0.09,1.105,Inflation targeting,No major event
+07/05/2024,8.44,2.02,1180.89,-1895.24,-1.22,1.033,GST change,Geopolitical tensions
+08/05/2024,8.44,-1.22,89.48,1791.26,-0.49,1.012,Monetary easing,Major trade agreement
+09/05/2024,8.44,0.63,-68.23,778.58,-0.1,0.968,GST change,No major event
+10/05/2024,8.44,-0.32,-275.19,2940.46,0.53,0.967,Export policy revision,Geopolitical tensions
+13/05/2024,8.44,-0.2,1462.75,1536.8,1.68,1.078,FDI policy update,No major event
+14/05/2024,8.44,0.22,-242.31,1059.25,0.18,0.97,Liquidity injection,Global inflation surge
+15/05/2024,8.44,-1.46,133.11,-250.47,1.01,1.093,GST change,US Fed rate hike
+16/05/2024,8.44,-0.55,867.76,2608.74,1.8,0.963,Repo rate hike,No major event
+17/05/2024,8.44,0.09,789.05,2309.86,0.84,1.008,Direct tax reform,Major trade agreement
+20/05/2024,8.44,0.15,1003.4,1594.58,0.3,1.065,Fiscal stimulus,Pandemic impact
+21/05/2024,8.44,-0.34,428.25,1814.72,-0.88,1.102,Liquidity injection,Major trade agreement
+22/05/2024,8.44,1.23,-216.84,1059.54,0.78,1.059,Export policy revision,Commodity supercycle
+23/05/2024,8.44,-0.25,223.27,2823.14,1.63,1.024,Export policy revision,Oil price shock
+24/05/2024,8.44,1.72,809.56,-66.2,-0.89,0.996,FDI policy update,Pandemic impact
+27/05/2024,8.44,-0.15,760.07,-117.27,-1.44,1.077,Liquidity injection,Global recession fears
+28/05/2024,8.44,1.39,-77.96,2283.55,1.44,1.12,FDI policy update,US Fed rate hike
+29/05/2024,8.44,1.01,1396.28,703.33,0.88,0.954,Inflation targeting,Oil price shock
+30/05/2024,8.44,-2.14,-99.41,35.21,0.04,1.131,Banking sector regulation,Global inflation surge
+31/05/2024,8.44,0.53,-100.58,2762.64,-0.25,1.017,Inflation targeting,US Fed rate hike
+03/06/2024,8.44,-1.69,728.02,2204.64,0.87,1.061,Liquidity injection,US Fed rate hike
+04/06/2024,8.44,-1.62,414.39,-1668.41,-1.1,0.974,FDI policy update,US Fed rate hike
+05/06/2024,8.44,-1.11,-272.52,-894.61,0.44,0.973,Direct tax reform,Geopolitical tensions
+06/06/2024,8.44,-2.42,131.75,1296.85,-0.88,1.07,Interest rate cut,Global recession fears
+07/06/2024,8.44,0.88,-183.32,2012.41,-0.21,1.057,Banking sector regulation,Emerging market rally
+10/06/2024,8.44,0.08,1338.35,-1450.3,0.79,1.06,Monetary easing,No major event
+11/06/2024,8.44,-2.33,-149.24,112.89,0.2,1.053,Monetary easing,Commodity supercycle
+12/06/2024,8.44,-2.33,909.38,-1537.68,1.23,1.079,Interest rate cut,No major event
+13/06/2024,8.44,-1.14,730.16,-1225.17,-0.69,1.148,GST change,Major trade agreement
+14/06/2024,8.44,1.98,-176.95,1732.26,-0.75,1.111,No major policy,Tech sector boom
+17/06/2024,8.44,-1.67,593.76,2070.95,0.11,1.015,GST change,Emerging market rally
+18/06/2024,8.44,1.43,120.66,1700.55,0.22,1.096,Repo rate hike,Pandemic impact
+19/06/2024,8.44,1.56,16.98,-808.96,0.31,1.148,No major policy,US Fed rate hike
+20/06/2024,8.44,1.72,448.59,-1413.52,-0.48,1.041,FDI policy update,Pandemic impact
+21/06/2024,8.44,-2.33,643.83,2859.11,0.73,0.983,FDI policy update,Geopolitical tensions
+24/06/2024,8.44,0.31,444.36,2800.0,-0.2,1.006,Repo rate hike,Oil price shock
+25/06/2024,8.44,-0.83,637.33,1102.47,-0.7,1.05,Export policy revision,No major event
+26/06/2024,8.44,1.2,-367.6,-181.54,-0.71,1.076,No major policy,US Fed rate hike
+27/06/2024,8.44,0.42,-458.95,779.4,-0.75,0.989,Liquidity injection,Global inflation surge
+28/06/2024,8.44,1.77,365.92,2293.42,0.38,1.046,GST change,Emerging market rally
+01/07/2024,4.8,-2.43,974.65,2572.42,0.1,1.061,GST change,US Fed rate hike
+02/07/2024,4.8,2.32,1260.01,-702.32,1.08,0.966,FDI policy update,Pandemic impact
+03/07/2024,4.8,0.11,3.51,207.8,0.59,1.041,Export policy revision,Global inflation surge
+04/07/2024,4.8,0.26,1089.7,476.11,-0.24,1.08,FDI policy update,No major event
+05/07/2024,4.8,-1.99,823.22,2199.69,-1.46,0.992,Liquidity injection,Tech sector boom
+08/07/2024,4.8,0.34,336.59,-1327.55,1.06,1.04,No major policy,Pandemic impact
+09/07/2024,4.8,-0.15,1023.81,2439.43,0.93,0.974,Export policy revision,Geopolitical tensions
+10/07/2024,4.8,-1.67,-220.77,-1041.38,1.46,0.975,Inflation targeting,Global inflation surge
+11/07/2024,4.8,1.95,-270.09,-201.15,1.68,1.023,Liquidity injection,Oil price shock
+12/07/2024,4.8,-0.99,-114.83,2298.83,1.23,1.03,Inflation targeting,Major trade agreement
+15/07/2024,4.8,0.8,943.16,-637.44,-0.27,0.953,GST change,Major trade agreement
+16/07/2024,4.8,0.53,517.39,2978.78,1.17,1.075,Fiscal stimulus,Tech sector boom
+17/07/2024,4.8,1.34,745.36,2872.44,-0.46,0.959,GST change,Major trade agreement
+18/07/2024,4.8,-1.21,79.88,124.6,-1.04,1.056,Interest rate cut,Commodity supercycle
+19/07/2024,4.8,-0.74,-331.88,-341.71,-0.06,1.122,Interest rate cut,Tech sector boom
+22/07/2024,4.8,1.56,227.98,1387.47,1.51,0.964,No major policy,US Fed rate hike
+23/07/2024,4.8,2.27,973.46,-1895.61,-0.66,0.99,Monetary easing,Global inflation surge
+24/07/2024,4.8,-1.19,496.43,-1396.66,-0.2,1.096,Capital controls,Oil price shock
+25/07/2024,4.8,-0.56,2.23,2892.35,1.52,1.021,Repo rate hike,Emerging market rally
+26/07/2024,4.8,-0.54,1261.6,-742.2,-0.99,1.044,GST change,Emerging market rally
+29/07/2024,4.8,-1.75,781.26,-1913.96,0.85,1.121,Liquidity injection,US Fed rate hike
+30/07/2024,4.8,-1.63,-126.17,-128.07,0.41,1.091,Interest rate cut,Commodity supercycle
+31/07/2024,4.8,-0.05,405.89,-1782.45,0.03,1.086,No major policy,Major trade agreement
+01/08/2024,4.8,1.51,922.26,2060.31,1.04,1.058,Banking sector regulation,Global inflation surge
+02/08/2024,4.8,0.14,-211.03,-1704.96,-0.04,1.069,Inflation targeting,Emerging market rally
+05/08/2024,4.8,2.3,-346.22,2014.83,0.69,1.149,Liquidity injection,Global recession fears
+06/08/2024,4.8,-1.25,1363.34,2572.79,-0.08,1.128,Monetary easing,Oil price shock
+07/08/2024,4.8,1.54,518.59,1202.88,-0.21,1.062,Interest rate cut,Tech sector boom
+08/08/2024,4.8,0.14,-94.42,786.53,1.34,1.147,Liquidity injection,Pandemic impact
+09/08/2024,4.8,-0.57,1047.01,580.54,-0.48,1.079,Liquidity injection,No major event
+12/08/2024,4.8,-1.2,706.23,-75.87,0.04,1.021,Fiscal stimulus,US Fed rate hike
+13/08/2024,4.8,-2.1,239.66,2097.74,1.71,1.011,Monetary easing,Global recession fears
+14/08/2024,4.8,0.29,200.1,-1561.02,-0.91,1.062,Inflation targeting,Pandemic impact
+15/08/2024,4.8,-2.15,-110.51,-744.68,-0.96,0.994,Interest rate cut,Pandemic impact
+16/08/2024,4.8,1.28,843.39,-766.21,-1.11,0.988,No major policy,Commodity supercycle
+19/08/2024,4.8,1.17,752.01,-983.34,0.12,1.133,Interest rate cut,No major event
+20/08/2024,4.8,2.43,-286.29,2896.6,1.31,0.997,Inflation targeting,Emerging market rally
+21/08/2024,4.8,-0.97,997.29,-830.43,0.78,1.091,Capital controls,Major trade agreement
+22/08/2024,4.8,0.15,720.29,491.37,0.83,0.97,Banking sector regulation,Major trade agreement
+23/08/2024,4.8,-2.34,1294.02,-62.01,0.32,1.014,Capital controls,Global recession fears
+26/08/2024,4.8,2.35,166.62,1963.38,-0.72,1.007,No major policy,Emerging market rally
+27/08/2024,4.8,0.21,1357.58,2592.99,1.64,1.149,Monetary easing,No major event
+28/08/2024,4.8,0.88,-339.99,2785.26,-0.11,1.104,FDI policy update,Oil price shock
+29/08/2024,4.8,1.35,1497.22,1569.96,0.84,1.056,Interest rate cut,Tech sector boom
+30/08/2024,4.8,1.82,1317.29,488.69,0.26,0.974,Capital controls,US Fed rate hike
+02/09/2024,4.8,0.08,93.05,-1605.59,-1.09,0.978,Inflation targeting,Oil price shock
+03/09/2024,4.8,0.35,732.06,1275.39,1.39,1.03,Export policy revision,Geopolitical tensions
+04/09/2024,4.8,0.83,715.35,-1106.82,1.52,0.958,No major policy,No major event
+05/09/2024,4.8,-0.89,-130.1,1489.97,-0.57,0.989,Inflation targeting,Oil price shock
+06/09/2024,4.8,-0.86,-172.56,-553.04,-1.24,1.117,Inflation targeting,No major event
+09/09/2024,4.8,-0.61,1476.15,807.13,-0.37,1.129,Direct tax reform,Global inflation surge
+10/09/2024,4.8,-1.95,279.17,1504.96,-1.26,0.98,Banking sector regulation,Pandemic impact
+11/09/2024,4.8,0.12,-82.42,614.04,-1.34,1.122,Capital controls,Geopolitical tensions
+12/09/2024,4.8,0.17,127.71,1456.83,-1.04,1.037,No major policy,Global inflation surge
+13/09/2024,4.8,-0.58,-40.79,2990.79,-0.23,0.99,Banking sector regulation,Pandemic impact
+16/09/2024,4.8,-1.85,341.31,1792.48,1.61,1.029,FDI policy update,Pandemic impact
+17/09/2024,4.8,-1.7,933.88,1544.96,-0.76,1.113,Inflation targeting,Tech sector boom
+18/09/2024,4.8,-0.69,-115.4,-1817.07,0.45,1.113,Direct tax reform,Global recession fears
+19/09/2024,4.8,0.23,987.82,-672.84,1.29,1.065,Banking sector regulation,US Fed rate hike
+20/09/2024,4.8,-1.74,-319.06,-1223.88,-0.28,1.026,Capital controls,Global inflation surge
+23/09/2024,4.8,-1.16,72.34,409.99,-1.29,1.069,GST change,Pandemic impact
+24/09/2024,4.8,-2.12,61.65,1079.91,-0.13,1.047,No major policy,Pandemic impact
+25/09/2024,4.8,1.87,803.44,1208.68,-0.47,1.083,Banking sector regulation,Global recession fears
+26/09/2024,4.8,0.71,867.07,-1388.54,-0.45,1.079,Banking sector regulation,Global inflation surge
+27/09/2024,4.8,0.69,-133.8,419.72,-0.19,0.955,Repo rate hike,Geopolitical tensions
+30/09/2024,4.8,2.0,-402.14,-370.96,-1.34,0.958,FDI policy update,Major trade agreement
+01/10/2024,3.93,-1.99,630.51,1392.05,0.05,1.107,Direct tax reform,Geopolitical tensions
+02/10/2024,3.93,-0.14,-169.58,910.2,1.48,1.138,Direct tax reform,Geopolitical tensions
+03/10/2024,3.93,-1.86,891.51,534.27,0.61,1.112,Export policy revision,US Fed rate hike
+04/10/2024,3.93,0.92,319.42,-240.71,0.39,1.101,Monetary easing,Geopolitical tensions
+07/10/2024,3.93,0.23,1326.88,717.92,-1.02,0.954,GST change,Oil price shock
+08/10/2024,3.93,-2.47,22.59,-737.62,1.08,1.061,Export policy revision,Major trade agreement
+09/10/2024,3.93,-1.23,632.7,614.95,0.99,1.113,Inflation targeting,Commodity supercycle
+10/10/2024,3.93,-1.9,-120.47,2207.12,0.62,1.008,Banking sector regulation,Major trade agreement
+11/10/2024,3.93,1.25,1319.03,2306.04,0.16,1.133,Interest rate cut,Major trade agreement
+14/10/2024,3.93,-1.7,650.34,195.13,-0.39,1.126,GST change,Oil price shock
+15/10/2024,3.93,1.56,-198.19,1208.96,-1.25,1.042,GST change,Oil price shock
+16/10/2024,3.93,0.92,-156.43,-435.91,-1.05,0.99,No major policy,Global recession fears
+17/10/2024,3.93,-1.78,-248.66,793.86,1.75,1.125,Liquidity injection,Commodity supercycle
+18/10/2024,3.93,-1.37,637.07,374.52,-1.17,0.962,Capital controls,Global recession fears
+21/10/2024,3.93,-2.37,313.63,1731.36,-0.79,1.033,Banking sector regulation,Pandemic impact
+22/10/2024,3.93,-2.12,758.79,1800.83,0.9,1.138,Interest rate cut,Oil price shock
+23/10/2024,3.93,1.01,506.71,51.53,0.0,0.982,Direct tax reform,Commodity supercycle
+24/10/2024,3.93,1.08,1232.6,-1033.49,1.06,1.105,Direct tax reform,No major event
+25/10/2024,3.93,-0.54,566.53,2710.44,-0.14,0.981,Direct tax reform,Major trade agreement
+28/10/2024,3.93,-1.57,390.08,776.88,1.61,1.126,Liquidity injection,Oil price shock
+29/10/2024,3.93,1.96,872.28,-1297.61,-0.92,1.047,No major policy,Tech sector boom
+30/10/2024,3.93,0.41,-225.05,2249.68,0.49,1.069,Direct tax reform,Global recession fears
+31/10/2024,3.93,1.45,-288.16,1284.88,1.5,0.98,No major policy,Tech sector boom
+01/11/2024,3.93,2.22,1050.63,-1243.59,-1.32,1.149,Liquidity injection,Major trade agreement
+04/11/2024,3.93,-2.17,120.13,1774.42,-0.31,0.987,Repo rate hike,Tech sector boom
+05/11/2024,3.93,0.52,-224.47,-1463.23,1.66,1.012,Export policy revision,Major trade agreement
+06/11/2024,3.93,2.18,419.45,-1696.28,-1.34,1.077,Liquidity injection,Global recession fears
+07/11/2024,3.93,0.4,600.77,1033.11,1.68,1.053,Fiscal stimulus,Major trade agreement
+08/11/2024,3.93,-0.29,-86.81,1129.42,0.18,1.059,GST change,Global recession fears
+11/11/2024,3.93,1.68,-381.82,-83.73,1.67,1.015,Export policy revision,Pandemic impact
+12/11/2024,3.93,-0.81,410.71,1319.28,0.51,1.022,Capital controls,Global inflation surge
+13/11/2024,3.93,-1.28,372.96,2179.42,-0.27,1.061,Interest rate cut,Global recession fears
+14/11/2024,3.93,1.35,1428.75,-993.72,-0.12,1.048,Direct tax reform,No major event
+15/11/2024,3.93,-0.84,493.25,-1404.48,0.84,1.054,FDI policy update,Global inflation surge
+18/11/2024,3.93,1.42,829.31,2512.97,1.37,1.145,Export policy revision,Global recession fears
+19/11/2024,3.93,-0.64,269.82,-1178.88,-0.45,1.084,Liquidity injection,Global inflation surge
+20/11/2024,3.93,-1.56,-259.87,1056.63,-0.35,1.098,Direct tax reform,Emerging market rally
+21/11/2024,3.93,0.97,1227.64,2043.02,0.21,1.086,Capital controls,Global inflation surge
+22/11/2024,3.93,-0.31,1127.84,1707.51,-0.76,0.987,Direct tax reform,Tech sector boom
+25/11/2024,3.93,0.63,96.43,-477.06,-0.33,0.956,Monetary easing,Tech sector boom
+26/11/2024,3.93,-0.11,42.86,1925.14,1.46,1.082,Direct tax reform,Oil price shock
+27/11/2024,3.93,-1.49,-311.73,-251.9,-0.78,0.954,Monetary easing,Emerging market rally
+28/11/2024,3.93,1.11,925.11,-1481.71,-0.92,0.978,Export policy revision,Oil price shock
+29/11/2024,3.93,1.57,-191.73,-47.9,1.36,1.054,Capital controls,Pandemic impact
+02/12/2024,3.93,0.99,151.17,815.49,0.1,0.954,Direct tax reform,Oil price shock
+03/12/2024,3.93,-1.02,813.16,-672.31,0.96,1.034,Banking sector regulation,US Fed rate hike
+04/12/2024,3.93,-0.47,1180.78,-1298.98,-0.37,1.08,Liquidity injection,Tech sector boom
+05/12/2024,3.93,-2.12,-454.25,2666.29,-0.95,1.141,Fiscal stimulus,US Fed rate hike
+06/12/2024,3.93,-0.55,145.05,510.52,-1.16,0.959,Inflation targeting,US Fed rate hike
+09/12/2024,3.93,1.18,-281.26,1712.91,0.6,0.958,Inflation targeting,Global recession fears
+10/12/2024,3.93,-0.49,-354.33,1926.38,-1.14,1.097,Repo rate hike,Tech sector boom
+11/12/2024,3.93,-1.36,452.03,-28.26,-0.78,1.02,GST change,Emerging market rally
+12/12/2024,3.93,1.86,1280.92,-1452.53,0.56,1.116,Banking sector regulation,Oil price shock
+13/12/2024,3.93,-0.99,342.24,2816.29,-0.07,1.09,FDI policy update,No major event
+16/12/2024,3.93,2.39,473.54,-1463.43,0.89,1.094,Interest rate cut,Geopolitical tensions
+17/12/2024,3.93,-0.92,1220.36,1364.61,1.52,1.129,Liquidity injection,Oil price shock
+18/12/2024,3.93,0.17,-398.11,120.73,-0.38,0.993,No major policy,Commodity supercycle
+19/12/2024,3.93,-0.66,1216.48,547.7,-1.3,1.148,Export policy revision,Tech sector boom
+20/12/2024,3.93,-1.32,-170.99,-132.21,-0.9,0.953,FDI policy update,Geopolitical tensions
+23/12/2024,3.93,2.15,921.8,918.74,-0.99,0.978,Fiscal stimulus,No major event
+24/12/2024,3.93,0.84,233.34,1107.83,-0.17,0.976,Export policy revision,No major event
+25/12/2024,3.93,0.24,479.17,1044.76,1.69,1.01,Export policy revision,Global inflation surge
+26/12/2024,3.93,-2.48,434.72,-1918.67,1.42,1.127,Inflation targeting,Pandemic impact
+27/12/2024,3.93,-2.22,118.8,-333.13,1.59,1.144,Repo rate hike,Tech sector boom
+30/12/2024,3.93,-2.04,801.33,2998.32,-1.0,0.955,Banking sector regulation,Oil price shock
+31/12/2024,3.93,1.91,726.97,2398.22,0.5,1.137,Fiscal stimulus,US Fed rate hike
+01/01/2025,6.32,-0.22,1080.44,1697.05,-0.54,0.951,Banking sector regulation,Commodity supercycle
+02/01/2025,6.32,2.41,749.66,-1615.45,0.83,1.117,Liquidity injection,Major trade agreement
+03/01/2025,6.32,-1.54,444.97,2047.58,-1.3,0.975,Monetary easing,Emerging market rally
+06/01/2025,6.32,-1.09,1467.98,-803.22,0.79,1.049,Capital controls,Tech sector boom
+07/01/2025,6.32,-0.97,1096.36,-1075.21,0.58,1.025,No major policy,Pandemic impact
+08/01/2025,6.32,1.15,98.99,311.55,1.79,1.02,GST change,Commodity supercycle
+09/01/2025,6.32,-0.4,-249.68,2233.58,-0.94,1.017,Interest rate cut,Commodity supercycle
+10/01/2025,6.32,0.45,1453.61,2852.49,0.71,0.988,FDI policy update,Major trade agreement
+13/01/2025,6.32,-0.05,74.27,-1497.23,-0.16,1.044,FDI policy update,Global recession fears
+14/01/2025,6.32,2.24,635.56,-1783.46,-1.11,1.122,FDI policy update,Tech sector boom
+15/01/2025,6.32,-1.32,-89.4,2262.26,1.16,1.069,Liquidity injection,Commodity supercycle
+16/01/2025,6.32,-0.86,832.35,1980.57,-0.3,1.1,No major policy,Commodity supercycle
+17/01/2025,6.32,-1.19,-421.25,-1982.18,-0.74,0.977,Repo rate hike,Tech sector boom
+20/01/2025,6.32,0.75,1373.11,804.98,-1.39,1.068,Fiscal stimulus,Emerging market rally
+21/01/2025,6.32,-2.4,-351.18,2132.64,-1.2,1.136,Direct tax reform,Pandemic impact
+22/01/2025,6.32,-0.38,1388.37,511.07,-0.66,1.147,Liquidity injection,Major trade agreement
+23/01/2025,6.32,-0.84,990.49,1462.1,-1.31,1.084,Inflation targeting,Global inflation surge
+24/01/2025,6.32,-1.85,-31.09,-1169.73,1.66,1.13,Capital controls,Global inflation surge
+27/01/2025,6.32,-2.45,1020.84,2566.05,0.31,0.998,Capital controls,Commodity supercycle
+28/01/2025,6.32,-0.88,-2.81,-1454.98,0.85,1.14,Direct tax reform,Commodity supercycle
+29/01/2025,6.32,0.98,325.92,1162.87,-0.11,0.973,Banking sector regulation,Commodity supercycle
+30/01/2025,6.32,-1.19,117.78,1717.71,-1.22,0.986,No major policy,Geopolitical tensions
+31/01/2025,6.32,2.21,1289.74,1983.13,0.91,0.966,Direct tax reform,US Fed rate hike
+03/02/2025,6.32,2.3,756.55,61.66,-0.93,1.13,Capital controls,Global inflation surge
+04/02/2025,6.32,-2.38,1490.7,1053.22,-0.34,1.017,Capital controls,Geopolitical tensions
+05/02/2025,6.32,-0.36,1121.6,436.95,0.49,1.133,Banking sector regulation,Global inflation surge
+06/02/2025,6.32,-0.99,1370.09,-885.17,0.55,1.121,Banking sector regulation,Major trade agreement
+07/02/2025,6.32,1.66,1080.31,-1453.76,-0.6,0.981,FDI policy update,Oil price shock
+10/02/2025,6.32,0.12,-69.91,1319.76,-0.68,1.145,Repo rate hike,Tech sector boom
+11/02/2025,6.32,-2.31,1064.27,-13.1,-0.38,1.025,Fiscal stimulus,Global inflation surge
+12/02/2025,6.32,0.85,564.94,-1264.76,-0.75,1.14,Liquidity injection,Pandemic impact
+13/02/2025,6.32,-2.36,-3.64,-1773.99,0.54,0.973,Inflation targeting,Emerging market rally
+14/02/2025,6.32,-0.1,-291.46,-20.89,0.46,1.007,Fiscal stimulus,Tech sector boom
+17/02/2025,6.32,1.09,-285.01,-1351.36,-0.76,1.108,Repo rate hike,Commodity supercycle
+18/02/2025,6.32,-0.27,1305.45,-1524.8,1.39,1.09,Banking sector regulation,Commodity supercycle
+19/02/2025,6.32,2.43,29.32,2852.68,0.13,1.033,Export policy revision,Commodity supercycle
+20/02/2025,6.32,1.85,683.28,1301.25,-0.73,1.011,FDI policy update,Geopolitical tensions
+21/02/2025,6.32,-0.22,21.87,980.87,0.41,1.063,Fiscal stimulus,Major trade agreement
+24/02/2025,6.32,0.76,-406.75,1263.71,-1.0,0.998,Fiscal stimulus,Emerging market rally
+25/02/2025,6.32,1.83,-30.59,2603.42,1.57,1.028,Repo rate hike,Tech sector boom
+26/02/2025,6.32,-1.01,1364.33,1881.74,-1.29,0.977,GST change,Tech sector boom
+27/02/2025,6.32,1.58,448.84,1294.2,-0.1,1.103,Banking sector regulation,Major trade agreement
+28/02/2025,6.32,0.02,-323.81,2064.28,0.58,0.988,Fiscal stimulus,Global recession fears
+03/03/2025,6.32,-1.34,550.04,190.72,-1.28,1.067,FDI policy update,Global inflation surge
+04/03/2025,6.32,-1.65,1055.14,1801.6,0.28,1.102,Repo rate hike,No major event
+05/03/2025,6.32,-0.82,1100.46,2028.19,-0.53,1.003,Inflation targeting,Global inflation surge
+06/03/2025,6.32,-0.04,-424.85,2152.18,0.64,1.096,Monetary easing,Emerging market rally
+07/03/2025,6.32,-1.86,874.99,1338.82,-1.47,1.135,Interest rate cut,Global inflation surge
+10/03/2025,6.32,-0.6,1401.86,-870.7,-1.29,1.019,Capital controls,Commodity supercycle
+11/03/2025,6.32,1.37,890.55,679.68,-1.12,1.007,Banking sector regulation,Emerging market rally
+12/03/2025,6.32,0.65,952.23,801.66,0.49,1.08,Fiscal stimulus,US Fed rate hike
+13/03/2025,6.32,1.15,394.32,-958.34,0.32,0.993,Fiscal stimulus,Emerging market rally
+14/03/2025,6.32,2.38,717.87,-1365.3,1.54,1.091,Banking sector regulation,Emerging market rally
+17/03/2025,6.32,-0.65,867.03,723.57,0.23,0.996,Interest rate cut,Pandemic impact
+18/03/2025,6.32,-2.1,-380.01,-332.79,0.56,1.131,FDI policy update,Tech sector boom
+19/03/2025,6.32,0.51,-121.27,2751.41,-0.39,1.002,Direct tax reform,Commodity supercycle
+20/03/2025,6.32,0.31,1270.88,2897.87,-0.98,0.957,Direct tax reform,Emerging market rally
+21/03/2025,6.32,-0.82,912.32,440.8,0.54,1.068,Repo rate hike,Global recession fears
+24/03/2025,6.32,1.96,520.26,201.86,0.67,0.954,GST change,No major event
+25/03/2025,6.32,-1.15,756.89,-221.95,1.28,1.136,No major policy,Pandemic impact
+26/03/2025,6.32,1.06,965.54,-1379.43,-0.95,1.089,Banking sector regulation,Geopolitical tensions
+27/03/2025,6.32,-0.21,-99.07,1993.84,-0.28,1.05,FDI policy update,Emerging market rally
+28/03/2025,6.32,1.42,1315.54,556.18,0.47,1.139,Interest rate cut,Pandemic impact
+31/03/2025,6.32,-1.95,1014.94,665.6,0.84,1.075,GST change,Commodity supercycle
+01/04/2025,6.01,-0.65,-367.35,1847.44,-0.82,1.133,Repo rate hike,Major trade agreement
+02/04/2025,6.01,-2.42,893.19,-594.27,1.0,1.04,Export policy revision,Global inflation surge
+03/04/2025,6.01,1.04,985.65,935.92,1.24,1.054,FDI policy update,Emerging market rally
+04/04/2025,6.01,1.99,1039.46,651.12,-1.12,1.071,GST change,Commodity supercycle
+07/04/2025,6.01,-0.08,81.54,-826.56,-0.15,1.146,FDI policy update,Tech sector boom
+08/04/2025,6.01,-2.38,900.25,2107.58,-1.07,0.993,Interest rate cut,Commodity supercycle
+09/04/2025,6.01,0.4,936.65,-1095.9,1.52,1.102,Interest rate cut,Geopolitical tensions
+10/04/2025,6.01,1.02,554.21,-979.48,1.13,1.02,Fiscal stimulus,Global recession fears
+11/04/2025,6.01,0.33,516.79,72.59,1.28,0.988,Inflation targeting,Oil price shock
+14/04/2025,6.01,-2.16,1271.97,698.69,0.3,1.055,Interest rate cut,No major event
+15/04/2025,6.01,-0.77,-370.37,2354.7,1.46,1.139,Monetary easing,Global recession fears
+16/04/2025,6.01,-0.48,-376.96,1690.43,0.99,0.998,Monetary easing,Global inflation surge
+17/04/2025,6.01,-1.35,582.12,-1379.21,1.07,0.971,Banking sector regulation,US Fed rate hike
+18/04/2025,6.01,0.92,262.98,1374.63,-0.54,1.1,Interest rate cut,Tech sector boom
+21/04/2025,6.01,-0.37,103.44,670.07,-0.77,0.982,Liquidity injection,Geopolitical tensions
+22/04/2025,6.01,0.45,-119.13,763.23,0.57,1.098,Export policy revision,Pandemic impact
+23/04/2025,6.01,1.75,-3.61,925.48,0.07,1.143,Capital controls,Global inflation surge
+24/04/2025,6.01,1.48,482.88,2910.38,-0.48,1.027,GST change,Commodity supercycle
+25/04/2025,6.01,1.17,-335.2,2707.18,-0.17,1.002,No major policy,Global recession fears
+28/04/2025,6.01,1.95,68.01,888.29,1.39,1.125,Fiscal stimulus,Major trade agreement
+29/04/2025,6.01,-0.49,1153.14,-1755.18,1.52,1.149,Interest rate cut,Tech sector boom
+30/04/2025,6.01,-1.25,-310.58,-1321.83,1.05,0.955,Capital controls,Geopolitical tensions
+01/05/2025,6.01,0.95,624.55,-1265.41,1.3,1.089,Direct tax reform,Oil price shock
+02/05/2025,6.01,1.5,-266.31,-775.24,1.68,1.125,GST change,No major event
+05/05/2025,6.01,-1.75,-256.23,266.95,-0.77,1.093,Fiscal stimulus,Major trade agreement
+06/05/2025,6.01,1.88,228.21,-549.23,0.88,1.115,Direct tax reform,No major event
+07/05/2025,6.01,-1.33,1240.23,1781.67,1.48,1.135,No major policy,Global recession fears
+08/05/2025,6.01,-0.47,245.41,2112.9,1.42,1.125,Capital controls,US Fed rate hike
+09/05/2025,6.01,0.29,1326.95,1224.5,-1.13,1.034,Banking sector regulation,US Fed rate hike
+12/05/2025,6.01,0.04,472.31,505.47,-1.45,1.109,Banking sector regulation,No major event
+13/05/2025,6.01,1.25,1246.77,-160.6,-0.38,1.049,No major policy,No major event
+14/05/2025,6.01,-0.27,-498.92,2128.21,-0.2,1.041,GST change,Emerging market rally
+15/05/2025,6.01,0.25,1020.49,-1993.42,0.56,1.014,Inflation targeting,Oil price shock
+16/05/2025,6.01,1.14,-211.98,1728.6,1.34,1.011,FDI policy update,No major event
+19/05/2025,6.01,0.73,1445.34,12.12,-1.47,1.114,Direct tax reform,No major event
+20/05/2025,6.01,-0.46,123.1,-1899.15,1.27,1.098,Fiscal stimulus,Geopolitical tensions
+21/05/2025,6.01,1.0,-97.26,1622.24,-0.69,1.029,Export policy revision,No major event
+22/05/2025,6.01,-1.03,831.22,-1605.66,-0.22,1.023,No major policy,Geopolitical tensions
+23/05/2025,6.01,1.58,-25.9,2094.33,1.44,1.049,Capital controls,Major trade agreement
+26/05/2025,6.01,-0.29,991.06,-1857.22,0.46,1.005,Repo rate hike,Geopolitical tensions
+27/05/2025,6.01,-0.32,872.29,364.62,-0.83,0.988,Interest rate cut,Geopolitical tensions
+28/05/2025,6.01,-0.73,412.56,-1601.6,-0.01,1.139,Repo rate hike,Oil price shock
+29/05/2025,6.01,-0.81,1320.24,-1101.36,-0.35,1.047,Repo rate hike,Global recession fears
+30/05/2025,6.01,-0.67,1129.2,2216.05,0.96,0.994,GST change,Pandemic impact
+02/06/2025,6.01,-0.52,516.89,844.24,-0.02,0.998,Monetary easing,Major trade agreement
+03/06/2025,6.01,0.73,-193.31,1565.9,1.76,1.026,GST change,Geopolitical tensions
+04/06/2025,6.01,-1.86,1339.04,2908.37,0.74,1.119,Liquidity injection,Oil price shock
+05/06/2025,6.01,1.23,649.71,2401.97,-1.42,0.981,Interest rate cut,Pandemic impact
+06/06/2025,6.01,2.49,448.92,-268.68,-1.46,0.964,Monetary easing,US Fed rate hike
+09/06/2025,6.01,0.27,1020.94,2009.29,-0.45,0.955,Inflation targeting,No major event
+10/06/2025,6.01,0.71,362.23,1618.89,1.6,1.037,GST change,Tech sector boom
+11/06/2025,6.01,-0.59,643.73,-1343.55,0.36,0.985,Repo rate hike,Emerging market rally
+12/06/2025,6.01,-1.27,497.9,-1330.74,-0.86,0.966,No major policy,US Fed rate hike
+13/06/2025,6.01,-2.18,159.02,2107.79,-0.29,0.973,Export policy revision,Commodity supercycle
+16/06/2025,6.01,0.91,515.21,1108.53,-0.67,0.957,Capital controls,Emerging market rally
+17/06/2025,6.01,-0.53,748.88,1864.47,-0.97,1.09,FDI policy update,US Fed rate hike
+18/06/2025,6.01,-1.23,559.4,1993.97,0.31,0.982,GST change,Pandemic impact
+19/06/2025,6.01,-0.5,-297.26,1814.63,-0.43,0.997,Export policy revision,Commodity supercycle
+20/06/2025,6.01,-1.67,352.65,2180.05,-0.44,1.018,Capital controls,No major event
+23/06/2025,6.01,-1.81,530.18,-1069.44,1.45,0.994,Monetary easing,Pandemic impact
+24/06/2025,6.01,2.42,646.64,-1579.44,0.18,0.963,FDI policy update,No major event
+25/06/2025,6.01,-0.83,39.24,2807.83,1.44,1.073,FDI policy update,Global inflation surge
+26/06/2025,6.01,-1.08,-42.22,2401.44,-1.04,1.119,GST change,Pandemic impact
+27/06/2025,6.01,2.23,1465.63,-539.34,0.96,1.082,Capital controls,Major trade agreement
+30/06/2025,6.01,-2.45,65.0,2994.3,-1.28,1.05,Capital controls,US Fed rate hike
+01/07/2025,8.47,-0.29,1354.16,1127.32,-0.88,1.134,No major policy,Major trade agreement
+02/07/2025,8.47,1.21,754.14,-1978.56,0.02,1.127,FDI policy update,Global inflation surge
+03/07/2025,8.47,-0.64,1248.17,1633.05,-0.53,1.059,Fiscal stimulus,US Fed rate hike
+04/07/2025,8.47,-2.09,773.1,1264.0,1.2,1.104,GST change,US Fed rate hike
+07/07/2025,8.47,-1.28,-119.53,-703.46,-1.21,1.142,Monetary easing,Pandemic impact
+08/07/2025,8.47,1.27,265.47,25.91,1.38,1.083,FDI policy update,US Fed rate hike
+09/07/2025,8.47,-0.7,414.4,2828.12,-1.49,1.039,FDI policy update,Oil price shock
+10/07/2025,8.47,-0.11,724.94,2331.6,1.43,1.111,Repo rate hike,No major event
+11/07/2025,8.47,-1.4,1340.15,-776.3,-1.49,0.994,FDI policy update,Oil price shock
